@@ -1,0 +1,27 @@
+1. klasa zgony_usa.IndeksRestrykcyjnosci
+plik we: OxCGRT_US_latest.csv
+plik wy: indeks2021.txt
+
+2. klasa zgony_usa.SzczepieniaVacUS
+plik we: us_state_vaccinations.csv
+plik wy: szczepienia_vacUS2021_12_31.txt
+
+3. klasa zgony_usa.SumarycznyIndeksRestr2021
+plik we: OxCGRT_US_latest.csv
+plik wy: OxCGRT_US_suma_ind_restr2021.csv
+
+4. klasa zgony_usa.ZgonyTygodniowo2021_1
+plik we: Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.csv
+plik we: Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022.csv
+plik wy: zgony2021us.txt
+
+5. klasa zgony_usa.ZgonyUSASumIndRestr2021
+plik we: zgony2021us.txt
+plik wy: zgony_us_sir2021.txt
+plik szczepieñ: szczepienia_vacUS2021_12_31.txt
+plik indeksu restr: OxCGRT_US_suma_ind_restr2021.csv
+
+6. gnuplot
+load 'zgony2021us_sum_ind_restr1.scr'
+plik we: zgony_us_sir2021.txt
+plik wy: usa_zgony_ind_restr2021_1.png

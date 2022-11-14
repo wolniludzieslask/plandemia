@@ -1,0 +1,154 @@
+﻿Wzrost liczby zgonów i sumaryczny indeksem restrykcyjności na świecie w 2020 roku.
+
+load 'zgony2020swiat_ind_restr.scr'  
+
+* FILE: 
+  Records:           93
+  Out of range:       0
+  Invalid:            0
+  Column headers:     0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              11.3531        151812.0971
+  Std Dev:           12.7764         35006.4007
+  Sample StdDev:     12.8457         35196.1387
+  Skewness:           1.4023            -0.4824
+  Kurtosis:           5.9375             2.6100
+  Avg Dev:            9.0627         28666.8144
+  Sum:             1055.8400        1.41185e+07
+  Sum Sq.:        27168.1624        2.25733e+12
+
+  Mean Err.:          1.3249          3629.9947
+  Std Dev Err.:       0.9368          2566.7938
+  Skewness Err.:      0.2540             0.2540
+  Kurtosis Err.:      0.5080             0.5080
+
+  Minimum:          -17.2200 [76]    57433.3300 [84]
+  Maximum:           59.0100 [21]   214133.3300 [68]
+  Quartile:           2.4800        128691.6600
+  Median:             9.0800        157025.0000
+  Quartile:          15.9000        180233.3300
+
+  Linear Model:       y = 1383 x + 1.361e+05
+  Slope:              1383 +- 247.9
+  Intercept:          1.361e+05 +- 4238
+  Correlation:        r = 0.5047
+  Sum xy:             1.813e+08
+
+Wzrost liczby zgonów i sumaryczny indeksem restrykcyjności na świecie w 2021 roku.
+
+load 'zgony2021swiat_ind_restr.scr'  
+
+* FILE: 
+  Records:           93
+  Out of range:       0
+  Invalid:            0
+  Column headers:     0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              22.7353        170845.6100
+  Std Dev:           16.1411         35930.3558
+  Sample StdDev:     16.2286         36125.1017
+  Skewness:           0.6767            -0.1045
+  Kurtosis:           2.8369             2.3801
+  Avg Dev:           13.4506         29442.0626
+  Sum:             2114.3800        1.58886e+07
+  Sum Sq.:        72300.7444        2.83457e+12
+
+  Mean Err.:          1.6738          3725.8043
+  Std Dev Err.:       1.1835          2634.5415
+  Skewness Err.:      0.2540             0.2540
+  Kurtosis Err.:      0.5080             0.5080
+
+  Minimum:           -2.2000 [ 6]    80300.0000 [54]
+  Maximum:           70.8300 [68]   241562.5000 [37]
+  Quartile:           9.4900        145383.3300
+  Median:            20.7200        169541.6600
+  Quartile:          34.8400        197545.8300
+
+  Linear Model:       y = 529 x + 1.588e+05
+  Slope:              529 +- 226.7
+  Intercept:          1.588e+05 +- 6320
+  Correlation:        r = 0.2376
+  Sum xy:             3.74e+08
+
+Wzrost liczby zgonów i sumaryczny indeks restrykcyjności w poszczególnych stanach w USA w 2020 roku
+
+load 'zgony2020us_sum_ind_restr.scr'
+
+* FILE: 
+  Records:           51
+  Out of range:       0
+  Invalid:            0
+  Column headers:     0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              16.5676        123561.6016
+  Std Dev:            4.7915         28833.4581
+  Sample StdDev:      4.8391         29120.3652
+  Skewness:          -0.3659            -0.1828
+  Kurtosis:           3.4864             3.0159
+  Avg Dev:            3.5411         22878.3326
+  Sum:              844.9500        6.30164e+06
+  Sum Sq.:        15169.6967        8.21041e+11
+
+  Mean Err.:          0.6709          4037.4917
+  Std Dev Err.:       0.4744          2854.9378
+  Skewness Err.:      0.3430             0.3430
+  Kurtosis Err.:      0.6860             0.6860
+
+  Minimum:            3.8300 [ 9]    44970.8300 [37]
+  Maximum:           27.6600 [30]   181979.1700 [31]
+  Quartile:          14.4600        106075.0000
+  Median:            16.5500        123425.0000
+  Quartile:          19.6300        145037.5000
+
+  Linear Model:       y = -1545 x + 1.492e+05
+  Slope:              -1545 +- 830.8
+  Intercept:          1.492e+05 +- 1.433e+04
+  Correlation:        r = -0.2568
+  Sum xy:             1.026e+08
+
+Wzrost liczby zgonów i sumaryczny indeks restrykcyjności w poszczególnych stanach w USA w 2021 roku
+
+load 'zgony2021us_sum_ind_restr.scr'  
+
+* FILE: 
+  Records:           51
+  Out of range:       0
+  Invalid:            0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              20.6967         77137.2543
+  Std Dev:            7.2857         29250.5386
+  Sample StdDev:      7.3582         29541.5959
+  Skewness:           0.2116             0.8906
+  Kurtosis:           2.2285             4.3929
+  Avg Dev:            6.2520         22461.1879
+  Sum:             1055.5300        3.93400e+006
+  Sum Sq.:        24553.1123        3.47093e+011
+
+  Mean Err.:          1.0202          4095.8947
+  Std Dev Err.:       0.7214          2896.2349
+  Skewness Err.:      0.3430             0.3430
+  Kurtosis Err.:      0.6860             0.6860
+
+  Minimum:            7.1100 [21]    22333.3300 [37]
+  Maximum:           36.9500 [ 1]   179133.3300 [ 9]
+  Quartile:          14.1100         54975.0000
+  Median:            21.0300         74983.3300
+  Quartile:          26.0600         91033.3300
+
+  Linear Model:       y = -631.2 x + 9.02e+004
+  Slope:              -631.2 +- 566.4
+  Intercept:          9.02e+004 +- 1.243e+004
+  Correlation:        r = -0.1572
+  Sum xy:             7.971e+007

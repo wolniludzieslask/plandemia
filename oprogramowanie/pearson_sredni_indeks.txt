@@ -1,0 +1,35 @@
+load 'C:\programy\gnuplot\moje_pliki\zgony2020swiat_sredni_ind_restr.scr'
+
+* FILE: 
+  Records:           93
+  Out of range:       0
+  Invalid:            0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              11.3531            46.0876
+  Std Dev:           12.7764            10.6274
+  Sample StdDev:     12.8457            10.6850
+  Skewness:           1.4023            -0.4823
+  Kurtosis:           5.9375             2.6098
+  Avg Dev:            9.0627             8.7031
+  Sum:             1055.8400          4286.1500
+  Sum Sq.:        27168.1624        208042.0303
+
+  Mean Err.:          1.3249             1.1020
+  Std Dev Err.:       0.9368             0.7792
+  Skewness Err.:      0.2540             0.2540
+  Kurtosis Err.:      0.5080             0.5080
+
+  Minimum:          -17.2200 [76]       17.4400 [84]
+  Maximum:           59.0100 [21]       65.0100 [68]
+  Quartile:           2.4800            39.0700
+  Median:             9.0800            47.6700
+  Quartile:          15.9000            54.7200
+
+  Linear Model:       y = 0.4198 x + 41.32
+  Slope:              0.4198 +- 0.07527
+  Intercept:          41.32 +- 1.287
+  Correlation:        r = 0.5048
+  Sum xy:             5.503e+004

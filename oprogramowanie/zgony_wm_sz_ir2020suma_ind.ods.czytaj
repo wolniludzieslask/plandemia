@@ -1,0 +1,7 @@
+plik Ÿród³owy zgony_wm_sz_ir2020suma_ind.txt
+
+usun¹æ kolumnê poziomu szczepieñ, która jest pusta, ¿eby operacjê sortowania mo¿na by³o rozszerzyæ
+na wszystkie kolumny;
+posortowaæ po nazwie kraju;
+przed zapisem zmieniæ format kolumn z liczbami u³amkowymi (wzrost liczby zgonów i indeksy polityki)
+ na angielski USA

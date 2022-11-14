@@ -1,0 +1,89 @@
+load 'zgony2021swiat_ind_restr.scr'  
+
+* FILE: 
+  Records:           89
+  Out of range:       0
+  Invalid:            0
+  Column headers:     0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              22.3049        168501.3119
+  Std Dev:           18.1755         35731.4183
+  Sample StdDev:     18.2785         35933.8642
+  Skewness:           1.9050            -0.0473
+  Kurtosis:           9.9293             2.4169
+  Avg Dev:           13.7849         29291.9910
+  Sum:             1985.1400        1.49966e+07
+  Sum Sq.:        73679.6360        2.64058e+12
+
+  Mean Err.:          1.9266          3787.5228
+  Std Dev Err.:       1.3623          2678.1830
+  Skewness Err.:      0.2596             0.2596
+  Kurtosis Err.:      0.5193             0.5193
+
+  Minimum:           -2.2000 [ 6]    80300.0000 [50]
+  Maximum:          118.2600 [64]   241562.5000 [35]
+  Quartile:           8.4900        141937.5000
+  Median:            18.9700        167150.0000
+  Quartile:          33.8200        196333.3300
+
+  Linear Model:       y = 492.9 x + 1.575e+05
+  Slope:              492.9 +- 204
+  Intercept:          1.575e+05 +- 5871
+  Correlation:        r = 0.2507
+  Sum xy:             3.49e+08
+
+1. klasa zgony_swiat_wm.FormatZgonySwiatWm2021.java
+plik we: world_mortality2022_07_12.csv
+plik wy: zgony_wm2021.txt
+
+2. klasa zgony_swiat_wm.ZgonySwiatWm2021.java
+plik we: zgony_wm2021.txt
+plik wy: zgony_wm2021suma.txt
+
+3a. klasa indeksy_covid.SumaryczneIndeksyPolityki
+plik we: OxCGRT_latest.csv
+plik wy: OxCGRTsuma_ind2021.csv
+
+3b. klasa szczepienia.SzczepieniaVac
+plik we: vaccinations.csv
+pllik wy: szczepienia_vac2021.txt
+
+4. klasa zgony_swiat_wm.ZgonySwiatWmSzIndPol
+£¹czy w jednym pliku dane o zgonach, szczepieniach i indeksach polityki
+plik we: zgony_wm2021suma.csv
+plik wy: zgony_wm_sz_ir2021suma_ind.txt
+plik indeksów restrykcyjnoœci: OxCGRTsuma_ind2021.csv
+plik szczepieñ: szczepienia_vac2021.txt
+
+5. Open Office
+edycja pliku we
+patrz zgony_wm_sz_ir2021suma_ind.ods.czytaj
+edycja pliku we
+opis na podstawie zgony_wm_sz_ir2020suma_ind.ods.czytaj
+posortowaæ po ostatnim indeksie restrykcyjnoœci;
+usun¹æ kraje, które maj¹ puste indeksy;
+usun¹æ kraje, które maj¹ ma³¹ liczbê okresów (usun¹³em jeden kraj: Bia³oruœ, dane za 3 miesi¹ce)
+posortowaæ po nazwie kraju;
+przed zapisem zmieniæ format kolumn z liczbami u³amkowymi (wzrost liczby zgonów i indeksy polityki)
+ na angielski USA
+plik we: zgony_wm_sz_ir2021suma_ind.txt
+plik wy: zgony_wm_sz_ir2021suma_ind.csv
+
+6. klasa konwersje.SumarycznyIndeksRestrykcyjnosciWm2021
+Oblicza sumaryczny indeks restrykcyjnoœci
+plik we: zgony_wm_sz_ir2021suma_ind.csv
+plik wy: zgony_wm_sz_ir2021suma_ind1.csv 
+
+7. klasa zgony_swiat_wm.ZgonyDopasowanieKrajow2020_2021
+plik we: zgony_wm_sz_ir2021suma_ind1.csv
+plik we1: zgony_wm_sz_ir2020suma_ind1.csv
+plik wy: zgony_wm_sz_ir2020suma_ind2.csv
+plik wy1: zgony_wm_sz_ir2021suma_ind2.csv
+
+8. gnuplot
+load 'zgony2021swiat_ind_restr.scr'  
+plik we: zgony_wm_sz_ir2021suma_ind2.csv
+plik wy: swiat_zgony_ind_restr2021.png

@@ -1,0 +1,17 @@
+set termoption enhanced
+set datafile separator comma
+save_encoding = GPVAL_ENCODING
+set encoding utf8
+set key left box
+set grid
+set title "Zależność między wzrostem liczby zgonów\n\
+a sumarycznym indeksem restrykcyjności w USA w 2021 roku"
+set xlabel "wzrost liczby zgonów w 2021 roku [%]"
+set ylabel "sumaryczny indeks restrykcyjności"
+stats 'zgony_us_sir2021.txt' using 5:7 prefix "A"
+plot 'zgony_us_sir2021.txt' using 5:7:1 with labels center offset 0,0.5 point pt 7\
+title "Stany", \
+A_slope * x + A_intercept title "Linia regresji"
+
+set encoding save_encoding
+reset

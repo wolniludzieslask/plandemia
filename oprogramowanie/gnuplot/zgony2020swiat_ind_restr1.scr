@@ -1,0 +1,17 @@
+set termoption enhanced
+set datafile separator comma
+save_encoding = GPVAL_ENCODING
+set encoding utf8
+set key left box
+set grid
+set title "Zależność między wzrostem liczby zgonów\n\
+a sumarycznym indeksem restrykcyjności na świecie w 2020 roku"
+set xlabel "wzrost liczby zgonów w 2020 roku [%]"
+set ylabel "sumaryczny indeks restrykcyjności"
+stats 'zgony_wm_sz_ir2020suma_ind2.csv' using 2:3 prefix "A"
+plot 'zgony_wm_sz_ir2020suma_ind2.csv' using 2:3:1 with labels hypertext point pt 7\
+title "Kraje", \
+A_slope * x + A_intercept title "Linia regresji"
+
+set encoding save_encoding
+reset

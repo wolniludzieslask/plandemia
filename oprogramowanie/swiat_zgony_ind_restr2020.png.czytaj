@@ -1,0 +1,84 @@
+load 'zgony2020swiat_ind_restr.scr'
+
+* FILE: 
+  Records:           89
+  Out of range:       0
+  Invalid:            0
+  Column headers:     0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              11.8678        150985.8618
+  Std Dev:           15.2486         35330.0741
+  Sample StdDev:     15.3350         35530.2461
+  Skewness:           2.5758            -0.4433
+  Kurtosis:          13.8346             2.5552
+  Avg Dev:            9.8784         28878.8844
+  Sum:             1056.2300        1.34377e+07
+  Sum Sq.:        33229.3193        2.14000e+12
+
+  Mean Err.:          1.6163          3744.9804
+  Std Dev Err.:       1.1429          2648.1010
+  Skewness Err.:      0.2596             0.2596
+  Kurtosis Err.:      0.5193             0.5193
+
+  Minimum:          -17.2200 [72]    57433.3300 [80]
+  Maximum:           98.4100 [64]   214133.3300 [64]
+  Quartile:           2.4700        127933.3400
+  Median:             8.9800        152262.5000
+  Quartile:          15.9000        180233.3300
+
+  Linear Model:       y = 1150 x + 1.373e+05
+  Slope:              1150 +- 215.6
+  Intercept:          1.373e+05 +- 4166
+  Correlation:        r = 0.4965
+  Sum xy:             1.833e+08
+
+1. klasa zgony_swiat_wm.FormatZgonySwiatWm.java
+plik we: world_mortality.csv
+plik wy: zgony_wm2020.txt
+plik krajów: lista_krajow.csv
+
+2. klasa zgony_swiat_wm.ZgonySwiatWm.java
+plik we: zgony_wm2020.txt
+plik wy: zgony_wm2020suma.txt
+
+3. klasa indeksy_covid.SumaryczneIndeksyPolityki_2020
+plik we: OxCGRT_latest.csv
+plik wy: OxCGRTsuma_ind2020.csv
+
+4. klasa zgony_swiat_wm.ZgonySwiatWmSzIndPol2020_1
+£¹czy w jednym pliku dane o zgonach, szczepieniach i indeksach polityki
+plik we: zgony_wm2020suma.txt
+plik wy: zgony_wm_sz_ir2020suma_ind.txt
+plik indeksów restrykcyjnoœci: OxCGRTsuma_ind2020.csv
+plik krajów: lista_krajowCGRT.csv
+
+5. Open Office
+edycja pliku we
+opis na podstawie zgony_wm_sz_ir2020suma_ind.ods.czytaj
+usun¹æ kolumnê poziomu szczepieñ, która jest pusta, ¿eby operacjê sortowania mo¿na by³o rozszerzyæ
+na wszystkie kolumny;
+posortowaæ po nazwie kraju;
+przed zapisem zmieniæ format kolumn z liczbami u³amkowymi (wzrost liczby zgonów i indeksy polityki)
+ na angielski (USA) 
+przy zapisie kodowanie utf-8
+plik we: zgony_wm_sz_ir2020suma_ind.txt
+plik wy: zgony_wm_sz_ir2020suma_ind.csv
+
+6. klasa konwersje.SumarycznyIndeksRestrykcyjnosciWm2020
+Oblicza sumaryczny indeks restrykcyjnoœci
+plik we: zgony_wm_sz_ir2020suma_ind.csv
+plik wy: zgony_wm_sz_ir2020suma_ind1.csv 
+
+7. klasa zgony_swiat_wm.ZgonyDopasowanieKrajow2020_2021
+plik we: zgony_wm_sz_ir2021suma_ind1.csv
+plik we1: zgony_wm_sz_ir2020suma_ind1.csv
+plik wy: zgony_wm_sz_ir2020suma_ind2.csv
+plik wy1: zgony_wm_sz_ir2021suma_ind2.csv
+
+8. gnuplot
+load 'zgony2020swiat_ind_restr.scr'  
+plik we: zgony_wm_sz_ir2020suma_ind2.csv
+plik wy: swiat_zgony_ind_restr2020.png

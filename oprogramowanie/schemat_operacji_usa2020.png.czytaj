@@ -1,0 +1,22 @@
+1. klasa zgony_usa.IndeksRestrykcyjnosci2020
+plik we: OxCGRT_US_latest.csv
+plik wy: indeks.txt
+
+2. klasa zgony_usa.ZgonyTygodniowo2020_1
+plik we: Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.csv
+plik we: Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022.csv
+plik wy: zgony2020us.txt
+
+3. klasa zgony_usa.SumarycznyIndeksRestr
+plik we: OxCGRT_US_latest.csv
+plik wy: OxCGRT_US_suma_ind_restr2020.csv
+
+4. klasa zgony_usa.ZgonyUSASumIndRestr
+plik we: zgony2020us.txt
+plik wy: zgony_us_sir2020.txt
+plik indeksu restr: OxCGRT_US_suma_ind_restr2020.csv
+
+5. gnuplot
+load 'zgony2020us_sum_ind_restr1.scr'
+plik we: zgony_us_sir2020.txt
+plik wy: usa_zgony_ind_restr2020_1.png

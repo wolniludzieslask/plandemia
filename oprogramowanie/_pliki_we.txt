@@ -1,0 +1,79 @@
+world_mortality2022_07_12.csv
+World Mortality Dataset
+https://github.com/akarlinsky/world_mortality
+
+OxCGRT_latest.csv
+Oxford Covid-19 Government Response Tracker
+https://github.com/OxCGRT
+plik w katalogu
+https://github.com/OxCGRT/covid-policy-tracker-legacy/tree/main/legacy_data_202207
+(katalog zawiera dane w starym formacie przed zmianami w lipcu 2022)
+
+plik vaccinations.csv
+Our World in Data
+katalog covid-19-data
+https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations.csv
+
+Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.csv
+Weekly Counts of Deaths by State and Select Causes, 2014-2019
+opcja Export
+https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-kanr
+
+Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022_1.csv
+wersja pliku z dnia 29.07.2022
+Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2022
+opcja Export
+https://data.cdc.gov/NCHS/Weekly-Provisional-Counts-of-Deaths-by-State-and-S/muzy-jte6
+
+OxCGRT_US_latest.csv
+Oxford Covid-19 Government Response Tracker
+https://github.com/OxCGRT
+trzeba wybraæ USA-covid-policy
+https://github.com/OxCGRT/USA-covid-policy
+wejœæ do katalogu data, tu jest plik OxCGRT_US_latest.csv
+to jest link do tego katalogu
+https://github.com/OxCGRT/USA-covid-policy/tree/master/data
+
+us_state_vaccinations.csv
+Our World in Data
+https://ourworldindata.org
+https://github.com/owid/covid-19-data
+https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/us_state_vaccinations.csv
+
+Pozosta³e pliki nieujête w schematach operacji:
+
+plik lista_krajow.csv:
+a) klasa zgony_swiat_wm.ListaKrajow
+plik we: world_mortality2022_07_12.csv
+plik wy: lista_krajow.txt
+
+b) Wczytaæ lista_krajow.txt do OpenOffice jako utf-8
+uzupe³niæ nazwy polskie i kody
+zapisaæ w kodowaniu utf-8, pola tekstowe bez cudzys³owów
+plik wy: lista_krajow.csv
+
+plik lista_krajowCGRT.csv
+klasa indeksy_covid.ListaKrajowCGRT
+plik wej C:\rob\pandemia_statystyka\OxCGRT_latest.csv
+plik wej pomocniczy C:\rob\pandemia_statystyka\lista_krajow.csv
+plik wyj C:\rob\pandemia_statystyka\lista_krajowCGRT.csv
+
+kody stanów wpisywane rêcznie
+nazwy stanów na podstawie stany1.txt
+state_codes.txt
+
+indeks.txt
+klasa zgony_usa.IndeksRestrykcyjnosci2020
+plik we: OxCGRT_US_latest.csv
+plik wy: indeks.txt
+
+indeks2021.txt
+klasa zgony_usa.IndeksRestrykcyjnosci
+plik we: OxCGRT_US_latest.csv
+plik wy: indeks2021.txt
+
+stany1.txt
+klasa zgony_usa.ListaStanow
+plik we: Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.csv
+plik wy: stany1.txt
