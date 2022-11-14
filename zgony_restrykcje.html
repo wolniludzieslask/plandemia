@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<link href="website.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {
+	font-size: large;
+	font-weight: bold;
+	color: #0000FF;
+}
+.style2 {
+	color: #000000;
+	font-size: medium;
+	font-weight: bold;
+}
+.style3 {font-size: small}
+-->
+</style>
+</head>
+
+<body>
+<p><span class="style1">Zgony i restrykcje</span></p>
+<p>Data: 12 listopada 2022</p>
+<p>Artykuł przedstawia wyniki badań nad zależnością wzrostu liczby zgonów w poszczególnych krajach na świecie i w poszczególnych stanach USA w latach 2020 i 2021.</p>
+<p>Jeśli wprowadzane restrykcje w czasie rzekomej pandemii miały mieć sens, to powinna istnieć zależność odwrotna pomiędzy wzrostem liczby zgonów a rozmiarem restrykcji: im silniejsze restrykcje, tym mniejszy wzrost liczby zgonów na danym obszarze. Zobaczmy, czy tak rzeczywiście było. Wzrost liczby zgonów na świecie został obliczony na podstawie danych <a href="https://github.com/akarlinsky/world_mortality" target="_blank">projektu World Mortality Dataset</a>, a rozmiar restrykcji został obliczony na podstawie danych projektu <a href="https://github.com/OxCGRT" target="_blank">Oxford Covid-19 Government Response Tracker</a>. Dla USA dane o zgonach pochodzą z <a href="https://pl.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank">Centers for Disease Control and Prevention</a>.</p>
+<p>Źródła danych:</br>
+1) dane o zgonach w poszczególnych krajach na świecie: <a href="https://github.com/akarlinsky/world_mortality" target="_blank">projekt World Mortality Dataset</a></br>
+2) dane o zgonach w poszczególnych stanach w USA: <a href="https://pl.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank">Centers for Disease Control and Prevention</a> (linki do danych: <a href="https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-kanr" target="_blank">zgony w latach 2014-2019</a>, <a href="https://data.cdc.gov/NCHS/Weekly-Provisional-Counts-of-Deaths-by-State-and-S/muzy-jte6" target="_blank">zgony w latach 2020-2022</a>)</br>
+3) dane o poziomie restrykcji na świecie i w USA: <a href="https://github.com/OxCGRT" target="_blank">Oxford Covid-19 Government Response Tracker</a> (dla poszczególnych krajów dane z katalogu <a href="https://github.com/OxCGRT/covid-policy-tracker-legacy/tree/main/legacy_data_202207" target="_blank">https://github.com/OxCGRT/covid-policy-tracker-legacy/tree/main/legacy_data_202207</a>, dla USA dane z katalogu <a href="https://github.com/OxCGRT/USA-covid-policy/tree/master/data" target="_blank">https://github.com/OxCGRT/USA-covid-policy/tree/master/data</a>)</p>
+<p>Do oceny zależności pomiędzy wzrostem liczby zgonów a rozmiarem restrykcji użyto <a href="https://pl.wikipedia.org/wiki/Wsp%C3%B3%C5%82czynnik_korelacji_Pearsona" target="_blank">współczynnika korelacji Pearsona</a>. Do oceny wzrostu liczby zgonów w danym roku (np.2020) obliczono wzrost liczby zgonów w stosunku do średniej liczby zgonów z lat 2018 i 2019. Do oceny rozmiaru restrykcji użyto sumarycznego indeksu restrykcyjności. Patrz punkt "Sumaryczny indeks restrykcyjności" poniżej, jak został obliczony ten indeks.</p>
+<p>Poniżej zamieszczonych jest 8 wykresów ilustrujących wyniki obliczeń:</p>
+<p><a href="pliki/zgony2020swiat_ind_restr.png" target="_blank">
+<img src="pliki/zgony2020swiat_ind_restr.png" align = "left" alt="zgony2020swiat_ind_restr.png" hspace="10" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności na świecie w 2020 roku. Wersja z nazwami krajów. Współczynnik korelacji Pearsona 0.5047. Umiarkowana korelacja dodatnia. Im ostrzejsze restrykcje, tym większy wzrost liczby zgonów. <a href="zgony_wm_sz_ir2020suma_ind2_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2020swiat_ind_restr1.png" target="_blank">
+<img src="pliki/zgony2020swiat_ind_restr1.png" align = "left" hspace="10" alt="zgony2020swiat_ind_restr1.png" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności na świecie w 2020 roku. Wersja bez nazw krajów. Współczynnik korelacji Pearsona 0.5047. Umiarkowana korelacja dodatnia. Im ostrzejsze restrykcje, tym większy wzrost liczby zgonów. <a href="zgony_wm_sz_ir2020suma_ind2_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2021swiat_ind_restr.png" target="_blank">
+<img src="pliki/zgony2021swiat_ind_restr.png" align = "left" hspace="10" alt="zgony2021swiat_ind_restr.png" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności na świecie w 2021 roku. Wersja z nazwami krajów. Współczynnik korelacji Pearsona 0.2376. Brak korelacji. <a href="zgony_wm_sz_ir2021suma_ind2_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2021swiat_ind_restr1.png" target="_blank">
+<img src="pliki/zgony2021swiat_ind_restr1.png" align = "left" hspace="10" alt="zgony2021swiat_ind_restr1.png" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności na świecie w 2021 roku. Wersja bez nazw krajów. Współczynnik korelacji Pearsona 0.2376. Brak korelacji. <a href="zgony_wm_sz_ir2021suma_ind2_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2020us_sum_ind_restr.png" target="_blank">
+<img src="pliki/zgony2020us_sum_ind_restr.png" align = "left" hspace="10" alt="zgony2020us_sum_ind_restr.png" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności w poszczególnych stanach w USA w 2020 roku. Wersja z nazwami stanów. Współczynnik korelacji Pearsona -0.2568. Brak korelacji. <a href="zgony_us_sir2020_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2020us_sum_ind_restr1.png" target="_blank">
+<img src="pliki/zgony2020us_sum_ind_restr1.png" align = "left" hspace="10" alt="zgony2020us_sum_ind_restr1.png" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności w poszczególnych stanach w USA w 2020 roku. Wersja bez nazw stanów. Współczynnik korelacji Pearsona -0.2568. Brak korelacji. <a href="zgony_us_sir2020_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2021us_sum_ind_restr.png" target="_blank">
+<img src="pliki/zgony2021us_sum_ind_restr.png" align = "left" hspace="10" alt="zgony2021us_sum_ind_restr.png" width="608" height="300" id="example1"></a>
+</br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności w poszczególnych stanach w USA w 2021 roku. Wersja z nazwami stanów. Współczynnik korelacji Pearsona -0.1572. Brak korelacji. <a href="zgony_us_sir2021_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p><a href="pliki/zgony2021us_sum_ind_restr1.png" target="_blank">
+<img src="pliki/zgony2021us_sum_ind_restr1.png" align = "left" hspace="10" alt="zgony2021us_sum_ind_restr1.png" width="608" height="300" id="example1"></a></br></br></br></br>Zależność pomiędzy wzrostem liczby zgonów a sumarycznym indeksem restrykcyjności w poszczególnych stanach w USA w 2021 roku. Wersja bez nazw stanów. Współczynnik korelacji Pearsona -0.1572. Brak korelacji. <a href="zgony_us_sir2021_2.html" target="_blank">Patrz tabela</a>.<br style="clear: both;" /></p>
+<p>Wniosek: W żadnym przypadku nie widać, aby wprowadzane restrykcje miały jakiś wpływ na zmniejszenie wzrostu liczby zgonów. W jednym przypadku mieliśmy do czynienia z czymś przeciwnym: w 2020 roku większy poziom restrykcji był związany z większym wzrostem zgonów, ale dotyczy to tylko danych dla poszczególnych krajów na świecie. W poszczególnych stanach w USA takiej korelacji w ogóle nie było w latach 2020 i 2021.</p>
+<p><b>Sumaryczny indeks restrykcyjności</b></p>
+<p>Opis indeksów znajduje się w opracowaniu <a href="https://www.bsg.ox.ac.uk/sites/default/files/2022-04/BSG-WP-2020-032-v13.pdf" target="_blank">"Variation in government responses to COVID-19"</a>.</p>
+<p>Poniżej indeksy wykorzystywane w tym artykule:</p>
+<p>C1 - zamykanie szkół</br>
+C2 - zamykanie miejsc pracy</br>
+C3 - odwołanie imprez publicznych</br>
+C4 - ograniczenia rozmiarów zgromadzeń</br>
+C5 - zamykanie transportu publicznego</br>
+C6 - obowiązek pozostania w domu</br>
+C7 - ograniczenia w podróżach wewnętrznych</br>
+C8 - kontrola podróży międzynarodowych</br>
+H1 - publiczna kampania informacji</br>
+H6 - noszenie masek</p>
+<p>W opracowaniu <a href="https://www.bsg.ox.ac.uk/sites/default/files/2022-04/BSG-WP-2020-032-v13.pdf" target="_blank">"Variation in government responses to COVID-19"</a> został zdefiniowany poniższy indeks:</br>
+Stringency index = (C1 + C2 + C3 + C4 + C5 + C6 + C7 + C8 + H1) / 9</br>
+Jest to średnia z dziewięciu indeksów.</p>
+<p>Na potrzeby tego artykułu użyto sumy dziewięciu indeksów (nie średniej), jak niżej:</br>
+<p>Sumaryczny indeks restrykcyjności = C1 + C2 + C3 + C4 + C5 + C6 + C7 + C8 + H6</p>
+<p>Zamiast indeksu H1 użyto indeksu H6. Dla całego danego roku (np. 2020) najpierw obliczano sumaryczny indeks restrykcyjności dla każdego dnia, a potem sumę dla wszystkich dni w danym roku.</p>
+<p>Więcej szczegółów technicznych dotyczących wszystkich obliczeń wykorzystanych w tym artykule znajduje się w pliku <a href="https://github.com/wolniludzieslask/plandemia/oprogramowanie/fun003/README003.md" target="_blank">README003.md</a> oraz w katalogu <a href="https://github.com/wolniludzieslask/plandemia/oprogramowanie/fun003" target="_blank">https://github.com/wolniludzieslask/plandemia/oprogramowanie/fun003</a>.</p>
+<p><b>Dane o zgonach dla Peru</b></p>
+<p>Dane użyte w tym artykule zostały pobrane 3 października 2022, a więc są to inne dane niż dane wykorzystane poprzednio <a href="nadmiarowe_zgony_swiat2020_2021.html" target="_blank">tutaj</a>. Najbardziej widoczna różnica wystąpiła w danych o zgonach dla Peru. W poprzednich danych wzrost liczby zgonów w tym kraju (w stosunku do średniej w latach 2018 i 2019) wyniósł w roku 2020 98,41%, a w roku 2021 118,26%. W danych z 3 października wzrost wyniósł w 2020 roku 55.3%, a w roku 2021 70.83%. Przyczyną takiej różnicy jest to, że od 1 lipca 2022 dane dla Peru są korygowane. Patrz objaśnienia <a href="https://github.com/akarlinsky/world_mortality/blob/main/README.md" target="_blank">tutaj</a>. W skrócie to jest tak, że dane dla Peru pochodzą z bazy ministerstwa zdrowia Peru SINADEF. Dane są podawane dla każdego dnia. Żeby otrzymać dane tygodniowe, autorzy projektu World Mortality Dataset sumują dane dzienne. Istnieje również druga baza danych biura statystycznego Peru INEI, która dostarcza danych rocznych. Wysumowane liczby dziennych zgonów dla całego roku z bazy SINADEF są mniejsze niż roczne liczby zgonów z bazy INEI. Powodem jest niekompletność danych w bazie SINADEF. Stosunek liczby zgonów w bazie SINADEF do liczby zgonów w bazie INEI jest miarą niekompletności danych w bazie SINADEF. Z tego powodu dane z bazy SINADEF, a więc te, które są na stronie projektu World Mortality Dataset, są korygowane z uwzględnieniem tych współczynników niekompletności. Te współczynniki to 2017: 66%; 2018: 74%; 2019: 73%; 2020 (i dalsze lata): 94%.</p>
+<p>Nie ma jeszcze raportu INEI za 2021 rok, więc te dane mogą być jeszcze skorygowane, jeśli chodzi o liczbę zgonów w 2021 roku.</p>
+</body>
+</html>
