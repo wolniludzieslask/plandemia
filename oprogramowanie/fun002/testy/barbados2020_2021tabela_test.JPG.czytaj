@@ -1,0 +1,14 @@
+Zrzut ekranu przedstawia 
+1) tabelê "Suma zgonów w latach 2020 i 2021. Porównanie z sum¹ z lat 2018 i 2019."
+2) wczytany do arkusza plik zgony_wm2020_2021.txt. Dodany wiersz 175, gdzie w komórkach e175 i g175
+wpisano wyra¿enia sprawdzaj¹ce sumê zgonów, w komórce g175 jest to wyra¿enie
+=SUMA(F166:F174)+SUMA(G166:G174), a w komórce e175 wyra¿enie =SUMA(D166:D174)+SUMA(E166:E174)
+Liczby z komórek e175 i g175 s¹ zgodne z liczbami w tabeli.
+kolumny tabeli arkusza:
+C- numery okresów (dla Barbadosu to s¹ numery miesiêcy od 1 do 9)
+D- liczba zgonów w poszczególnych okresach roku 2018
+E- liczba zgonów w poszczególnych okresach roku 2019
+F- liczba zgonów w poszczególnych okresach roku 2020
+G- liczba zgonów w poszczególnych okresach roku 2021
+
+Zrzut ekranu ilustruje dzia³anie klasy zgony_swiat_wm.ZgonySwiatSumyWm
