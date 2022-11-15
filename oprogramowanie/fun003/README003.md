@@ -29,24 +29,31 @@ stany1.txt
 lista_krajowCGRT.csv  
 lista_krajow.csv  
 
-Kolejność operacji do otrzymania wykresów (do podkatalogu rob wgrać powyższe pliki z podkatalogu pliki_we_wy):  
-rok 2020 świat  
-1. Wykonać punkty 1-6 z pliku schemat_operacji_swiat2020.png.czytaj.  
+Kolejność operacji do otrzymania wykresów (do podkatalogu rob wgrać powyższe pliki z podkatalogu pliki_we_wy):
 
-rok 2021 świat  
+rok 2020 świat
+1. Wykonać punkty 1-6 z pliku schemat_operacji_swiat2020.png.czytaj.
+
+rok 2021 świat
+
 2. Wykonać punkty 1-6 z pliku schemat_operacji_swiat2021.png.czytaj.  
 
-rok 2020 i 2021 świat  
+rok 2020 i 2021 świat
+
 3. Wykonac punkt 7 z pliku schemat_operacji_swiat2021.png.czytaj.  
 
-wykres rok 2020 świat  
+wykres rok 2020 świat
+
 4. Wykonać punkt 8 z pliku schemat_operacji_swiat2020.png.czytaj.  
 
 wykres rok 2021 świat
+
 5. Wykonać punkt 8 z pliku schemat_operacji_swiat2021.png.czytaj.  
 
-rok 2020 USA  
+rok 2020 USA
+
 6. Wykonać punkty 1-5 z pliku schemat_operacji_usa2020.png.czytaj.  
 
-rok 2021 USA  
+rok 2021 USA
+
 7. Wykonać punkty 1-6 z pliku schemat_operacji_usa2021.png.czytaj.  
