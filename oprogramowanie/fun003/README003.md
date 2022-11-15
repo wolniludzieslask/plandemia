@@ -19,7 +19,7 @@ w plikach _pliki_projekty.txt i _pliki_we.txt .
 Krótka lista plików wejściowych (11 plików):
 world_mortality.csv  
 Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.csv  
-Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022_1.csv  
+Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022.csv  
 OxCGRT_latest.csv  
 OxCGRT_US_latest.csv  
 vaccinations.csv  
@@ -31,22 +31,22 @@ lista_krajow.csv
 
 Kolejność operacji do otrzymania wykresów (do podkatalogu rob wgrać powyższe pliki z podkatalogu pliki_we_wy):  
 rok 2020 świat  
-1) wykonać punkty 1-6 z pliku schemat_operacji_swiat2020.png.czytaj  
+1. Wykonać punkty 1-6 z pliku schemat_operacji_swiat2020.png.czytaj.  
 
 rok 2021 świat  
-2) wykonać punkty 1-6 z pliku schemat_operacji_swiat2021.png.czytaj  
+2. Wykonać punkty 1-6 z pliku schemat_operacji_swiat2021.png.czytaj.  
 
 rok 2020 i 2021 świat  
-3) wykonac punkt 7 z pliku schemat_operacji_swiat2021.png.czytaj  
+3. Wykonac punkt 7 z pliku schemat_operacji_swiat2021.png.czytaj.  
 
 wykres rok 2020 świat  
-4) wykonać punkt 8 z pliku schemat_operacji_swiat2020.png.czytaj  
+4. Wykonać punkt 8 z pliku schemat_operacji_swiat2020.png.czytaj.  
 
 wykres rok 2021 świat
-5) wykonać punkt 8 z pliku schemat_operacji_swiat2021.png.czytaj
+5. Wykonać punkt 8 z pliku schemat_operacji_swiat2021.png.czytaj.  
 
 rok 2020 USA  
-6) wykonać punkty 1-5 z pliku schemat_operacji_usa2020.png.czytaj  
+6. Wykonać punkty 1-5 z pliku schemat_operacji_usa2020.png.czytaj.  
 
 rok 2021 USA  
-7) wykonać punkty 1-6 z pliku schemat_operacji_usa2021.png.czytaj
+7. Wykonać punkty 1-6 z pliku schemat_operacji_usa2021.png.czytaj.  
