@@ -1,4 +1,4 @@
-7 plików, 4 ¿ród³a danych
+7 plikÃ³w, 4 Å¼rÃ³dÅ‚a danych
 
 world_mortality.csv
 World Mortality Dataset
@@ -25,9 +25,9 @@ https://github.com/OxCGRT/covid-policy-tracker-legacy/tree/main/legacy_data_2022
 OxCGRT_US_latest.csv
 Oxford Covid-19 Government Response Tracker
 https://github.com/OxCGRT
-trzeba wybraæ USA-covid-policy
+trzeba wybraÄ‡ USA-covid-policy
 https://github.com/OxCGRT/USA-covid-policy
-wejœæ do katalogu data, tu jest plik OxCGRT_US_latest.csv
+wejÅ›Ä‡ do katalogu data, tu jest plik OxCGRT_US_latest.csv
 to jest link do tego katalogu
 https://github.com/OxCGRT/USA-covid-policy/tree/master/data
 

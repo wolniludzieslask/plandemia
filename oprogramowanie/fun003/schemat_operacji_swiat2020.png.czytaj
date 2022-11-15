@@ -1,7 +1,7 @@
 1. klasa zgony_swiat_wm.FormatZgonySwiatWm.java
 plik we: world_mortality.csv
 plik wy: zgony_wm2020.txt
-plik krajów: lista_krajow.csv
+plik krajÃ³w: lista_krajow.csv
 
 2. klasa zgony_swiat_wm.ZgonySwiatWm.java
 plik we: zgony_wm2020.txt
@@ -12,26 +12,26 @@ plik we: OxCGRT_latest.csv
 plik wy: OxCGRTsuma_ind2020.csv
 
 4. klasa zgony_swiat_wm.ZgonySwiatWmSzIndPol2020_1
-£¹czy w jednym pliku dane o zgonach, szczepieniach i indeksach polityki
+ÅÄ…czy w jednym pliku dane o zgonach, szczepieniach i indeksach polityki
 plik we: zgony_wm2020suma2.csv
 plik wy: zgony_wm_sz_ir2020suma_ind.txt
-plik indeksów restrykcyjnoœci: OxCGRTsuma_ind2020.csv
-plik krajów: lista_krajowCGRT.csv
+plik indeksÃ³w restrykcyjnoÅ›ci: OxCGRTsuma_ind2020.csv
+plik krajÃ³w: lista_krajowCGRT.csv
 
 5. Open Office
 edycja pliku we
 opis na podstawie zgony_wm_sz_ir2020suma_ind.ods.czytaj
-usun¹æ kolumnê poziomu szczepieñ, która jest pusta, ¿eby operacjê sortowania mo¿na by³o rozszerzyæ
+usunÄ…Ä‡ kolumnÄ™ poziomu szczepieÅ„, ktÃ³ra jest pusta, Å¼eby operacjÄ™ sortowania moÅ¼na byÅ‚o rozszerzyÄ‡
 na wszystkie kolumny;
-posortowaæ po nazwie kraju;
-zmieniæ format kolumn z liczbami u³amkowymi (wzrost liczby zgonów i indeksy polityki)
+posortowaÄ‡ po nazwie kraju;
+zmieniÄ‡ format kolumn z liczbami uÅ‚amkowymi (wzrost liczby zgonÃ³w i indeksy polityki)
  na angielski (USA)
-zapisaæ w kodowaniu utf-8 (zachowaæ cudzys³owy dla pól tekstowych)
+zapisaÄ‡ w kodowaniu utf-8 (zachowaÄ‡ cudzysÅ‚owy dla pÃ³l tekstowych)
 plik we: zgony_wm_sz_ir2020suma_ind.txt
 plik wy: zgony_wm_sz_ir2020suma_ind.csv
 
 6. klasa konwersje.SumarycznyIndeksRestrykcyjnosciWm2020
-Oblicza sumaryczny indeks restrykcyjnoœci
+Oblicza sumaryczny indeks restrykcyjnoÅ›ci
 plik we: zgony_wm_sz_ir2020suma_ind.csv
 plik wy: zgony_wm_sz_ir2020suma_ind1.csv 
 

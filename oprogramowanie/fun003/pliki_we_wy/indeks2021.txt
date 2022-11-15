@@ -1,0 +1,51 @@
+Alaska,38.40
+Alabama,18.50
+Arkansas,24.03
+Arizona,19.69
+California,43.58
+Colorado,30.48
+Connecticut,30.85
+Washington DC,36.52
+Delaware,31.88
+Florida,18.51
+Georgia,25.75
+Hawaii,58.14
+Iowa,16.44
+Idaho,22.83
+Illinois,29.15
+Indiana,25.50
+Kansas,32.36
+Kentucky,30.85
+Louisiana,45.96
+Massachusetts,37.19
+Maryland,27.34
+Maine,29.87
+Michigan,28.73
+Minnesota,28.83
+Missouri,24.54
+Mississippi,20.03
+Montana,21.78
+North Carolina,33.35
+North Dakota,22.43
+Nebraska,18.25
+New Hampshire,28.77
+New Jersey,28.10
+New Mexico,33.47
+Nevada,25.09
+New York,41.22
+Ohio,25.06
+Oklahoma,32.44
+Oregon,32.01
+Pennsylvania,23.63
+Rhode Island,37.57
+South Carolina,23.03
+South Dakota,10.38
+Tennessee,23.56
+Texas,31.29
+Utah,19.37
+Virginia,26.68
+Vermont,33.04
+Washington,42.51
+Wisconsin,30.25
+West Virginia,22.07
+Wyoming,27.52

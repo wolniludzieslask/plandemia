@@ -1,0 +1,65 @@
+Alabama,Alabama,47.63,2021-12-30
+Alaska,Alaska,56.33,2021-12-30
+American Samoa,null,69.01,2021-12-30
+Arizona,Arizona,57.01,2021-12-30
+Arkansas,Arkansas,51.21,2021-12-30
+Bureau of Prisons,null,,2021-12-30
+California,California,64.22,2021-12-08
+Colorado,Colorado,66.22,2021-12-30
+Connecticut,Connecticut,74.6,2021-12-30
+Delaware,Delaware,64.16,2021-12-30
+Dept of Defense,null,,2021-12-30
+District of Columbia,District of Columbia,67.56,2021-12-30
+Federated States of Micronesia,null,42.15,2021-12-30
+Florida,Florida,63.36,2021-12-30
+Georgia,Georgia,51.08,2021-12-30
+Guam,null,75.38,2021-12-30
+Hawaii,Hawaii,62.48,2021-12-14
+Idaho,Idaho,46.23,2021-12-30
+Illinois,Illinois,64.04,2021-12-30
+Indian Health Svc,null,39.27,2021-12-30
+Indiana,Indiana,52.0,2021-12-30
+Iowa,Iowa,58.96,2021-12-30
+Kansas,Kansas,57.02,2021-12-30
+Kentucky,Kentucky,54.21,2021-12-30
+Long Term Care,null,,2021-12-30
+Louisiana,Louisiana,50.26,2021-12-30
+Maine,Maine,75.82,2021-12-30
+Marshall Islands,null,29.45,2021-12-30
+Maryland,Maryland,70.4,2021-12-30
+Massachusetts,Massachusetts,74.58,2021-12-30
+Michigan,Michigan,56.81,2021-12-30
+Minnesota,Minnesota,65.42,2021-12-30
+Mississippi,Mississippi,48.07,2021-12-30
+Missouri,Missouri,53.03,2021-12-30
+Montana,Montana,54.02,2021-12-30
+Nebraska,Nebraska,59.85,2021-12-30
+Nevada,Nevada,56.44,2021-12-30
+New Hampshire,New Hampshire,63.96,2021-11-20
+New Jersey,New Jersey,70.49,2021-12-30
+New Mexico,New Mexico,66.25,2021-12-30
+New York State,null,71.77,2021-12-30
+North Carolina,North Carolina,56.74,2021-12-30
+North Dakota,North Dakota,52.55,2021-12-30
+Northern Mariana Islands,null,76.91,2021-12-30
+Ohio,Ohio,55.25,2021-12-30
+Oklahoma,Oklahoma,53.48,2021-12-30
+Oregon,Oregon,66.45,2021-12-30
+Pennsylvania,Pennsylvania,63.85,2021-12-30
+Puerto Rico,Puerto Rico,77.0,2021-12-30
+Republic of Palau,null,76.78,2021-12-30
+Rhode Island,Rhode Island,76.45,2021-12-30
+South Carolina,South Carolina,53.12,2021-12-30
+South Dakota,South Dakota,57.09,2021-12-30
+Tennessee,Tennessee,51.36,2021-12-30
+Texas,Texas,56.96,2021-12-30
+United States,United States,61.99,2021-12-30
+Utah,Utah,58.8,2021-12-30
+Vermont,Vermont,77.39,2021-12-30
+Veterans Health,null,,2021-12-30
+Virgin Islands,null,50.6,2021-12-30
+Virginia,Virginia,67.95,2021-12-30
+Washington,Washington,67.92,2021-12-30
+West Virginia,West Virginia,55.06,2021-12-30
+Wisconsin,Wisconsin,61.96,2021-12-30
+Wyoming,Wyoming,47.52,2021-12-30

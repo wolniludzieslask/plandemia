@@ -1,0 +1,7 @@
+różnice między stany1.txt a state_codes.txt
+w stany1.txt są dwie pozycje, których nie ma w state_codes.txt:
+New York City
+United States
+
+w state_codes.txt jest jedna pozycja, której nie ma w stany1.txt:
+Washington DC

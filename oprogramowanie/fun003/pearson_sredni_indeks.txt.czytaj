@@ -1,0 +1,21 @@
+Średni indeks restrykcyjności
+
+Przed wykonaniem poniższych klas muszą być wykonane
+kroki od 1 do 6 z pliku schemat_operacji_swiat2020.png.czytaj
+i kroki od 1 do 7 z pliku schemat_operacji_swiat2021.png.czytaj,
+żeby otrzymać plik zgony_wm_sz_ir2020suma_ind2.csv .
+
+1. indeksy_covid.SredniIndeksRestrykcyjnosci
+plik we: OxCGRTsuma_ind2020.csv
+pli wy: sredni_indeks_restr2020.txt
+
+2. zgony_swiat_wm.ZgonySwiatSredniIndeksRestr.java
+plik we: zgony_wm_sz_ir2020suma_ind2.csv
+plik wy: zgony_sredni_indeks_restr2020.tx
+pliku indeksu restrykcyjności: sredni_indeks_restr2020.txt
+
+Współczynnik korelacji Pearsona między wzrostem liczby zgonów
+a średnim indeksem restrykcyjności pozostaje niemal taki sam:
+Correlation:        r = 0.5048
+W przypadku sumarycznego indeksu restrykcyjności wynosi on
+Correlation:        r = 0.5047

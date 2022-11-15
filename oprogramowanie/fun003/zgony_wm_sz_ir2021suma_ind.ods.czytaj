@@ -1,6 +1,6 @@
-plik Ÿród³owy zgony_wm_sz_ir2021suma_ind.txt
+plik ÅºrÃ³dÅ‚owy zgony_wm_sz_ir2021suma_ind.txt
 
-usun¹æ kraje, które maj¹ ma³¹ liczbê okresów (usun¹³em jeden kraj: Bia³oruœ, dane za 3 miesi¹ce)
-posortowaæ po nazwie kraju;
-przed zapisem zmieniæ format kolumn z liczbami u³amkowymi (wzrost liczby zgonów i indeksy polityki)
+usunÄ…Ä‡ kraje, ktÃ³re majÄ… maÅ‚Ä… liczbÄ™ okresÃ³w (usunÄ…Å‚em jeden kraj: BiaÅ‚oruÅ›, dane za 3 miesiÄ…ce)
+posortowaÄ‡ po nazwie kraju;
+przed zapisem zmieniÄ‡ format kolumn z liczbami uÅ‚amkowymi (wzrost liczby zgonÃ³w i indeksy polityki)
  na angielski USA

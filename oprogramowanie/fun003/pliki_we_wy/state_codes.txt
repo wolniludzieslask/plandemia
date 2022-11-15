@@ -1,0 +1,53 @@
+Alabama,AL,Alabama
+Alaska,AK,Alaska
+Arizona,AZ,Arizona
+Arkansas,AR,Arkansas
+California,CA,Kalifornia
+Colorado,CO,Kolorado
+Connecticut,CT,Connecticut
+Delaware,DE,Delaware
+District of Columbia,DC,Dystrykt Kolumbii
+Florida,FL,Floryda
+Georgia,GA,Georgia
+Hawaii,HI,Hawaje
+Idaho,ID,Idaho
+Illinois,IL,Illinois
+Indiana,IN,Indiana
+Iowa,IA,Iowa
+Kansas,KS,Kansas
+Kentucky,KY,Kentucky
+Louisiana,LA,Luizjana
+Maine,ME,Maine
+Maryland,MD,Maryland
+Massachusetts,MA,Massachusetts
+Michigan,MI,Michigan
+Minnesota,MN,Minnesota
+Mississippi,MS,Mississippi
+Missouri,MO,Missouri
+Montana,MT,Montana
+Nebraska,NE,Nebraska
+Nevada,NV,Nevada
+New Hampshire,NH,New Hampshire
+New Jersey,NJ,New Jersey
+New Mexico,NM,Nowy Meksyk
+New York,NY,Nowy Jork
+North Carolina,NC,Północna Karolina
+North Dakota,ND,Północna Dakota
+Ohio,OH,Ohio
+Oklahoma,OK,Oklahoma
+Oregon,OR,Oregon
+Pennsylvania,PA,Pennsylwania
+Puerto Rico,PR,Portoryko
+Rhode Island,RI,Rhode Island
+South Carolina,SC,Południowa Karolina
+South Dakota,SD,Południowa Dakota
+Tennessee,TN,Tennessee
+Texas,TX,Teksas
+Utah,UT,Utah
+Vermont,VT,Vermont
+Virginia,VA,Wirginia
+Washington,WA,Waszyngton
+Washington DC,DC,Washington DC
+West Virginia,WV,Wirginia Zachodnia
+Wisconsin,WI,Wisconsin
+Wyoming,WY,Wyoming

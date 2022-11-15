@@ -1,4 +1,4 @@
-﻿Wzrost liczby zgonów i sumaryczny indeksem restrykcyjności na świecie w 2020 roku.
+Wzrost liczby zgonów i sumaryczny indeksem restrykcyjności na świecie w 2020 roku.
 
 load 'zgony2020swiat_ind_restr.scr'  
 

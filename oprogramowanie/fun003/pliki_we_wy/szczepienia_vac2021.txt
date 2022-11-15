@@ -1,0 +1,235 @@
+Afghanistan,null,9.36,2021-12-27
+Africa,null,8.96,2021-12-31
+Albania,AL,36.12,2021-12-28
+Algeria,DZ,12.7,2021-12-21
+Andorra,AD,65.03,2021-12-26
+Angola,null,11.39,2021-12-30
+Anguilla,null,58.55,2021-12-08
+Antigua and Barbuda,AG,63.14,2021-12-29
+Argentina,AR,73.92,2021-12-31
+Armenia,AM,24.8,2021-12-26
+Aruba,AW,74.16,2021-12-30
+Asia,null,56.46,2021-12-31
+Australia,AU,76.22,2021-12-30
+Austria,AT,73.55,2021-12-31
+Azerbaijan,AZ,45.35,2021-12-31
+Bahamas,null,36.13,2021-12-23
+Bahrain,null,80.5,2021-12-31
+Bangladesh,null,24.06,2021-12-09
+Barbados,BB,51.09,2021-12-31
+Belarus,BY,33.7,2021-12-19
+Belgium,BE,76.04,2021-12-31
+Belize,BZ,49.78,2021-12-23
+Benin,null,10.15,2021-12-27
+Bermuda,BM,70.44,2021-12-17
+Bhutan,null,72.68,2021-12-20
+Bolivia,BO,38.02,2021-12-31
+Bonaire Sint Eustatius and Saba,null,62.67,2021-09-01
+Bosnia and Herzegovina,null,22.03,2021-11-04
+Botswana,null,39.95,2021-12-31
+Brazil,BR,66.92,2021-12-31
+British Virgin Islands,null,54.64,2021-12-23
+Brunei,BN,89.97,2021-12-31
+Bulgaria,BG,27.81,2021-12-31
+Burkina Faso,null,2.94,2021-12-22
+Burundi,null,0.03,2021-12-23
+Cambodia,null,82.34,2021-12-31
+Cameroon,null,2.43,2021-12-28
+Canada,CA,77.15,2021-12-31
+Cape Verde,null,43.54,2021-12-17
+Cayman Islands,null,83.5,2021-12-23
+Central African Republic,null,6.14,2021-12-04
+Chad,null,0.47,2021-12-12
+Chile,CL,84.89,2021-12-31
+China,null,84.68,2021-12-28
+Colombia,CO,54.98,2021-12-31
+Comoros,null,29.96,2021-12-31
+Congo,null,2.33,2021-12-09
+Cook Islands,null,73.5,2021-12-20
+Costa Rica,CR,68.01,2021-12-27
+Cote d'Ivoire,null,7.87,2021-12-31
+Croatia,HR,48.12,2021-12-31
+Cuba,CU,85.93,2021-12-31
+Curacao,null,50.76,2021-12-31
+Cyprus,CY,67.84,2021-12-23
+Czechia,CZ,63.38,2021-12-31
+Democratic Republic of Congo,null,0.12,2021-12-29
+Denmark,DK,78.02,2021-12-31
+Djibouti,null,2.36,2021-09-09
+Dominica,null,38.14,2021-12-22
+Dominican Republic,DO,51.27,2021-12-31
+Ecuador,EC,71.3,2021-12-31
+Egypt,EG,18.88,2021-12-24
+El Salvador,SV,65.83,2021-12-30
+England,null,70.41,2021-12-31
+Equatorial Guinea,null,12.44,2021-12-22
+Estonia,EE,61.35,2021-12-31
+Eswatini,null,25.27,2021-12-28
+Ethiopia,null,,2021-12-28
+Europe,null,61.11,2021-12-31
+European Union,null,68.84,2021-12-31
+Faeroe Islands,null,76.63,2021-12-30
+Falkland Islands,null,47.16,2021-04-14
+Fiji,null,65.5,2021-12-20
+Finland,FI,73.8,2021-12-12
+France,FR,73.61,2021-12-31
+French Polynesia,PF,52.33,2021-12-20
+Gabon,null,7.39,2021-12-13
+Gambia,null,9.45,2021-12-28
+Georgia,GE,30.57,2021-12-30
+Germany,DE,70.89,2021-12-31
+Ghana,null,7.11,2021-12-23
+Gibraltar,GI,122.64,2021-12-23
+Greece,GR,67.41,2021-12-31
+Greenland,GL,67.66,2021-12-27
+Grenada,null,28.45,2021-12-23
+Guatemala,GT,26.62,2021-12-31
+Guernsey,null,21.59,2021-04-20
+Guinea,null,6.84,2021-12-31
+Guinea-Bissau,null,1.12,2021-12-28
+Guyana,null,36.56,2021-12-29
+Haiti,null,0.64,2021-12-29
+High income,null,69.86,2021-12-31
+Honduras,null,41.8,2021-12-29
+Hong Kong,HK,62.21,2021-12-31
+Hungary,HU,61.6,2021-12-30
+Iceland,IS,76.67,2021-12-30
+India,null,42.86,2021-12-31
+Indonesia,null,41.52,2021-12-31
+Iran,IR,58.23,2021-12-26
+Iraq,null,12.95,2021-12-27
+Ireland,IE,77.75,2021-12-31
+Isle of Man,null,77.68,2021-12-31
+Israel,IL,63.93,2021-12-31
+Italy,IT,75.54,2021-12-31
+Jamaica,JM,20.05,2021-12-30
+Japan,JP,80.0,2021-12-31
+Jersey,null,70.24,2021-12-29
+Jordan,JO,35.29,2021-12-28
+Kazakhstan,KZ,44.36,2021-12-31
+Kenya,null,7.84,2021-12-30
+Kiribati,null,17.59,2021-11-30
+Kosovo,XK,43.92,2021-12-31
+Kuwait,KW,75.69,2021-12-28
+Kyrgyzstan,KG,15.18,2021-12-27
+Laos,null,41.74,2021-11-23
+Latvia,LV,67.37,2021-12-31
+Lebanon,LB,32.75,2021-12-31
+Lesotho,null,31.89,2021-12-31
+Liberia,null,14.54,2021-12-15
+Libya,null,12.26,2021-12-30
+Liechtenstein,LI,65.58,2021-12-30
+Lithuania,LT,65.75,2021-12-31
+Low income,null,3.95,2021-12-31
+Lower middle income,null,35.24,2021-12-31
+Luxembourg,LU,5.92,2021-04-13
+Macao,MO,67.23,2021-12-30
+Madagascar,null,1.87,2021-12-06
+Malawi,null,3.55,2021-12-31
+Malaysia,MY,76.42,2021-12-31
+Maldives,MV,70.47,2021-12-29
+Mali,null,1.79,2021-12-28
+Malta,MT,82.75,2021-12-31
+Mauritania,null,16.62,2021-12-30
+Mauritius,MU,70.05,2021-12-28
+Mexico,MX,57.44,2021-12-30
+Moldova,MD,32.08,2021-12-31
+Monaco,MC,69.96,2021-12-21
+Mongolia,MN,64.63,2021-12-31
+Montenegro,ME,43.46,2021-12-31
+Montserrat,null,33.33,2021-12-23
+Morocco,null,62.02,2021-12-27
+Mozambique,null,18.97,2021-12-30
+Myanmar,null,24.22,2021-12-11
+Namibia,null,11.22,2021-11-18
+Nauru,null,57.95,2021-08-31
+Nepal,null,32.42,2021-12-20
+Netherlands,NL,67.32,2021-12-31
+New Caledonia,NC,60.19,2021-12-20
+New Zealand,NZ,75.17,2021-12-31
+Nicaragua,NI,42.42,2021-12-29
+Niger,null,1.84,2021-11-28
+Nigeria,null,2.1,2021-12-31
+Niue,null,66.49,2021-11-24
+North America,null,59.02,2021-12-31
+North Macedonia,MK,38.83,2021-12-26
+Northern Cyprus,null,72.2,2021-11-26
+Northern Ireland,null,68.38,2021-12-31
+Norway,NO,72.72,2021-12-31
+Oceania,null,56.44,2021-12-31
+Oman,OM,64.2,2021-12-26
+Pakistan,null,30.5,2021-12-30
+Palestine,PS,29.53,2021-12-27
+Panama,PA,64.44,2021-12-26
+Papua New Guinea,null,2.21,2021-12-20
+Paraguay,PY,43.98,2021-12-29
+Peru,PE,65.51,2021-12-31
+Philippines,PH,43.58,2021-12-30
+Pitcairn,null,100.0,2021-09-07
+Poland,PL,54.94,2021-12-31
+Portugal,PT,83.27,2021-12-31
+Qatar,QA,82.52,2021-09-11
+Romania,RO,40.44,2021-12-31
+Russia,RU,46.02,2021-12-31
+Rwanda,null,40.37,2021-12-28
+Saint Helena,null,65.34,2021-05-05
+Saint Kitts and Nevis,KN,53.81,2021-12-29
+Saint Lucia,null,27.45,2021-12-31
+Saint Vincent and the Grenadines,VC,25.15,2021-12-28
+Samoa,null,55.66,2021-12-20
+San Marino,SM,64.08,2021-12-19
+Sao Tome and Principe,null,22.96,2021-12-13
+Saudi Arabia,null,64.48,2021-12-31
+Scotland,null,73.49,2021-12-31
+Senegal,null,5.44,2021-11-22
+Serbia,RS,46.68,2021-12-28
+Seychelles,SC,73.51,2021-12-28
+Sierra Leone,null,4.29,2021-11-26
+Singapore,SG,86.34,2021-12-31
+Sint Maarten (Dutch part),null,57.13,2021-12-23
+Slovakia,SK,47.07,2021-12-05
+Slovenia,SI,56.1,2021-12-31
+Solomon Islands,null,7.9,2021-12-20
+Somalia,null,4.75,2021-12-26
+South Africa,ZA,26.66,2021-12-29
+South America,null,64.27,2021-12-31
+South Korea,KR,82.3,2021-12-31
+South Sudan,null,1.69,2021-12-15
+Spain,ES,79.75,2021-12-29
+Sri Lanka,null,63.58,2021-12-31
+Sudan,null,2.7,2021-12-08
+Suriname,SR,37.24,2021-12-30
+Sweden,SE,69.73,2021-12-26
+Switzerland,CH,67.09,2021-12-31
+Syria,null,3.67,2021-12-21
+Taiwan,TW,67.73,2021-12-31
+Tajikistan,TJ,29.7,2021-12-26
+Tanzania,null,2.59,2021-12-28
+Thailand,TH,64.69,2021-12-31
+Timor,null,40.35,2021-12-21
+Togo,null,11.81,2021-12-31
+Tokelau,null,52.35,2021-10-12
+Tonga,null,53.41,2021-12-20
+Trinidad and Tobago,null,43.83,2021-12-31
+Tunisia,TN,48.29,2021-12-31
+Turkey,null,60.87,2021-12-31
+Turkmenistan,null,0.31,2021-02-28
+Turks and Caicos Islands,null,60.14,2021-11-05
+Tuvalu,null,52.52,2021-10-22
+Uganda,null,3.07,2021-12-20
+Ukraine,UA,31.6,2021-12-31
+United Arab Emirates,null,96.74,2021-12-24
+United Kingdom,GB,70.5,2021-12-31
+United States,US,63.12,2021-12-31
+Upper middle income,null,72.28,2021-12-31
+Uruguay,UY,78.19,2021-12-31
+Uzbekistan,UZ,32.58,2021-12-12
+Vanuatu,null,15.79,2021-12-20
+Venezuela,null,41.16,2021-12-17
+Vietnam,null,70.21,2021-12-30
+Wales,null,72.66,2021-12-31
+Wallis and Futuna,null,50.94,2021-11-30
+World,null,49.16,2021-12-31
+Yemen,null,0.65,2021-11-01
+Zambia,null,6.25,2021-12-31
+Zimbabwe,null,19.6,2021-12-31
