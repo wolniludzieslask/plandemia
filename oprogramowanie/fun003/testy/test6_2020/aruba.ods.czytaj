@@ -1,0 +1,24 @@
+1. Wczytanie aruba.csv do Open Office. Kolumny z wartoœciami u³amkowymi jako Angielski USA.
+2. Dodanie kolumn (16 indeksów + 1 sumaryczny)
+I dla indeksu C1, 
+L dla indeksu C2, 
+O dla indeksu C3, 
+R dla indeksu C4, 
+U dla indeksu C5, 
+X dla indeksu C6, 
+AA dla indeksu C7, 
+AC dla indeksu C8, 
+AF dla indeksu E1, 
+AH dla indeksu E2, 
+AM dla indeksu H1,
+AO dla indeksu H2,
+AQ dla indeksu H3,
+AV dla indeksu H6,
+AY dla indeksu H7,
+BB dla indeksu H8,
+BC dla indeksu SummaryStringencyIndex.
+3. Dodanie wiersza 1 i 2
+4. Skopiowanie wiersza 1 i 2 z pliku test_indeksy_polityki.ods.
+5 Skopiowanie formu³ komórek 
+6. Skopiowanie formu³ 
+Shift

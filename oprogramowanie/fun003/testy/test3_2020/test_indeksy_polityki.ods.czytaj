@@ -1,0 +1,34 @@
+test klasy indeksy_covid.IndeksPolityki
+
+1. Pierwszy wiersz (nag³ówki) pochodz¹ z pliku OxCGRT_latest.csv
+2. Dodanie kolumn (16 indeksów + 1 sumaryczny)
+I dla indeksu C1, 
+L dla indeksu C2, 
+O dla indeksu C3, 
+R dla indeksu C4, 
+U dla indeksu C5, 
+X dla indeksu C6, 
+AA dla indeksu C7, 
+AC dla indeksu C8, 
+AF dla indeksu E1, 
+AH dla indeksu E2, 
+AM dla indeksu H1,
+AO dla indeksu H2,
+AQ dla indeksu H3,
+AV dla indeksu H6,
+AY dla indeksu H7,
+BB dla indeksu H8,
+BC dla indeksu SummaryStringencyIndex.
+3. Dodanie wiersza 1 i 2.
+4. Wpisanie wartoœci NJ w wierszu 1 i FJ w wierszu 2.
+5. Wpisanie formu³y
+=JE¯ELI(H4="";0;100*(G4 - 0,5 * ($G$2 - H4)) / $G$1)
+w komórce I4
+6. Wpisanie analogicznych formu³ w komórkach L4, O4. R4, U4, X4, AA4, AF4, AM4, AV4, AY4, BB4
+To s¹ wszystkie indeksy z flagami.
+7. Wpisanie formu³y 
+=JE¯ELI(AB4="";0;100*AB4 / $AB$1)
+w komórce AC4. 
+8 Wpisanie analogicznych formu³ w komórkach AH4, AO4, AQ4.
+To s¹ wszystkie indeksy bez flag.
+

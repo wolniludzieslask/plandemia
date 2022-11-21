@@ -1,0 +1,9 @@
+Wczytaæ arkusz Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.ods
+Dodaæ wiersz 628. W komórce E628 wpisac formu³ê =SUMA(E524:E575) 
+To jest suma zgonów dla Alabamy w roku 2018.
+Dodaæ wiersz 629. W komórce E629 wpisaæ formu³ê =SUMA(E576:E627)
+To jest suma zgonów dla Alabamy w roku 2019.
+Dodaæ wiersz 630. W komórce E630 wpisaæ formu³ê =ZAOKR((E628+E629)/2).
+Jest to œrednia zgonów z lat 2018 i 2019 dla Alabamy.
+Liczba w komórce E630 musi byæ zgodna z odpowiedni¹ wartoœci¹ w pliku zgony2020us.txt.
+Patrz zrzut ekranu.

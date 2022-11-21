@@ -1,0 +1,40 @@
+load 'C:\programy\gnuplot\moje_pliki\zgony2020swiat_ind_restr3.scr'
+
+* FILE: 
+  Records:           89
+  Out of range:       0
+  Invalid:            0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              11.5679        150526.5922
+  Std Dev:           12.9197         34648.5281
+  Sample StdDev:     12.9929         34844.8386
+  Skewness:           1.3783            -0.4847
+  Kurtosis:           5.8279             2.6520
+  Avg Dev:            9.1193         28187.0472
+  Sum:             1029.5400        1.33969e+007
+  Sum Sq.:        26765.2906        2.12343e+012
+
+  Mean Err.:          1.3695          3672.7366
+  Std Dev Err.:       0.9684          2597.0170
+  Skewness Err.:      0.2596             0.2596
+  Kurtosis Err.:      0.5193             0.5193
+
+  Minimum:          -17.2200 [72]    57433.3300 [80]
+  Maximum:           59.0100 [19]   214133.3300 [64]
+  Quartile:           2.4900        128691.6600
+  Median:             9.0800        152262.5000
+  Quartile:          15.9000        177116.6700
+
+  Linear Model:       y = 1418 x + 1.341e+005
+  Slope:              1418 +- 244
+  Intercept:          1.341e+005 +- 4232
+  Correlation:        r = 0.5288
+  Sum xy:             1.76e+008
+
+Po usuniêciu 4 krajów patrz zgony_wm_sz_ir2020suma_ind3.csv.czytaj.
+
+Dla porównania zgony2020swiat_ind_restr1.png.czytaj:
+Correlation:        r = 0.5047

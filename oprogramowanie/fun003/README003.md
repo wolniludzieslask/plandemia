@@ -11,7 +11,10 @@ Testy wykonano za pomocą Javy wersja 1.8.0_152 .
 
 Dane przetwarzane są za pomocą klas Javy zawartych w katalogu java.
 Ostatecznym wynikiem są wykresy wykonywane za pomocą gnuplot.
+(http://gnuplot.sourceforge.net)
 Skrypty gnuplot znajdują się w katalogu gnuplot.
+Współczynniki korelacji Pearsona obliczane są za pomocą skryptów gnuplot.
+Patrz plik pearson.txt.
 
 Lista plików danych wejściowych i projektów, z których dane pochodzą, znajdują się
 w plikach _pliki_projekty.txt i _pliki_we.txt .

@@ -1,0 +1,5 @@
+Wczytaæ arkusz Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022.ods
+Dodaæ wiersz 196. W komórce F196 wpisaæ formu³ê =SUMA(F144:F195)
+Jest to suma zgonów dla Alabamy w 2020 roku.
+Liczba w tej komórce powinna byæ zgodna z odpowiedni¹ liczb¹ w pliku zgony2020us.txt.
+Patrz zrzut ekranu.

@@ -1,0 +1,3 @@
+po wczytaniu zgony_wm_sz_ir2020suma_ind.txt i dodaniu kolumny F
+komórka F1 ma formu³ê =(C1-B1) / B1 * 100, która zosta³a skopiowana do komórek od F2 do F104
+test zmiany procentowej liczby zgonów w 2020 roku w stosunktu do œredniej z lat 2018 i 2018

@@ -13,7 +13,7 @@ plik wy: OxCGRTsuma_ind2020.csv
 
 4. klasa zgony_swiat_wm.ZgonySwiatWmSzIndPol2020_1
 Łączy w jednym pliku dane o zgonach, szczepieniach i indeksach polityki
-plik we: zgony_wm2020suma2.csv
+plik we: zgony_wm2020suma.txt
 plik wy: zgony_wm_sz_ir2020suma_ind.txt
 plik indeksów restrykcyjności: OxCGRTsuma_ind2020.csv
 plik krajów: lista_krajowCGRT.csv

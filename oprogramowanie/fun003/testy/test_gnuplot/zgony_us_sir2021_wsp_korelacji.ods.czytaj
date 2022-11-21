@@ -1,0 +1,6 @@
+Test wspó³czynnika korelacji Pearsona obliczanego za pomoc¹ gnuplot.
+Wczytaæ zgony_us_sir2021.txt.
+Dodaæ formu³ê do obliczenia wspó³czynnika korelacji Pearsona
+=WSP.KORELACJI(C2:C52;D2:D52)
+Wartoœæ komórki z fomu³¹ powinna byæ zgodna z poni¿sz¹ liczb¹
+Correlation:        r = -0.1572

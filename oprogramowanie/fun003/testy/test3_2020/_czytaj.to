@@ -1,0 +1,55 @@
+1. Test klasy indeksy_covid.IndeksPolityki
+patrz test_indeksy_polityki.ods.czytaj
+test_indeksy_polityki.ods
+
+Pomys³ polega³ na tym, ¿eby wstawiæ do arkusza kalkulacyjnego nag³ówek pliku OxCGRT_latest.csv
+i przekszta³ciæ wiersze tabeli opracowania 
+https://www.bsg.ox.ac.uk/research/publications/variation-government-responses-covid-19
+w sposób pokazany na zrzutach
+test_indeksy_polityki.JPG
+test_indeksy_polityki_u.jpg
+
+W ten sposób otrzymamy arkusz  z formu³ami do testowania obliczeñ indeksów polityki dla wybranych krajów.
+Arkusz ten zawiera równie¿ formu³y, których wartoœci powinny byæ zgodne z odpowiednimi wartoœciami
+indeksów opracowania variation-government-responses-covid-19
+Na przyk³ad wartoœæ indeksu C1 to formu³a =JE¯ELI(H4="";0;100*(G4 - 0,5 * ($G$2 - H4)) / $G$1)
+Patrz pomoc Open Office Adresowanie wzglêdne i Adresowanie bezwzglêdne
+
+Drugi test dla klasy indeksy_covid.IndeksPolityki to uruchomienie klasy test.TestIndeksPolityki.
+Poni¿ej wynik dzia³ania klasy:
+C1=66.66666666666667 wartoœæ w tabeli=66.67
+C2=0.0 wartoœæ w tabeli=0.00
+C3=75.0 wartoœæ w tabeli=75.00
+C4=37.5 wartoœæ w tabeli=37.50
+C5=0.0 wartoœæ w tabeli=0.00
+C6=16.666666666666668 wartoœæ w tabeli=16.67
+C7=50.0 wartoœæ w tabeli=50.00
+C8=75.0 wartoœæ w tabeli=75.00
+E1=75.0 wartoœæ w tabeli=75.00
+E2=100.0 wartoœæ w tabeli=100.00
+H1=75.0 wartoœæ w tabeli=75.00
+H2=100.0 wartoœæ w tabeli=100.00
+H3=100.0 wartoœæ w tabeli=100.00
+H6=37.5 wartoœæ w tabeli=37.50
+H7=40.0 wartoœæ w tabeli=40.00
+H8=66.66666666666667 wartoœæ w tabeli=66.66
+GRI=57.1875 wartoœæ w tabeli=57.18
+CHI=52.857142857142854 wartoœæ w tabeli=52.86
+SI=43.98148148148149 wartoœæ w tabeli=43.98
+ESI=87.5 wartoœæ w tabeli=87.50
+
+2. Test klasy indeksy_covid.SumaryczneIndeksyPolityki_2020
+rok 2020
+Plik OxCGRT_latest.csv zawiera ponad 340 tys. wierszy, wiêc lepiej testowaæ dane dla wybranych
+krajów.
+Notepad++ dobrze radzi³ sobie z tak du¿ym plikiem, wiêc w pierwszym etapie w tym edytorze do osobnego pliku
+kopiowa³em nag³ówek pliku OxCGRT_latest.csv, a potem dane dla wybranego kraju.
+W drugim kroku dodawa³em odpowiednie kolumny dla wszystkich indeksów polityki tak samo, 
+jak w pliku test_indeksy_polityki.ods.
+W trzecim kroku dodawa³em 2 wiersze u góry i kopiowa³em wiersze 1 i 2 z pliku test_indeksy_polityki.ods.
+W czwartym kroku kopiowa³em formu³y indeksów z pliku test_indeksy_polityki.ods.
+Pi¹ty krok to jest skopiowanie formu³ indeksów z wiersza 4 do pozosta³ych wierszy dla wybranego
+roku. Na przyk³ad w pliku aruba.ods dla roku 2020 kopiujemy formu³ê I4 do komórek od I5 do I369.
+Teraz mo¿emy dodaæ wiersz 370 i w komórce I370 wysumowaæ komórki od I4 do I369.
+Wartoœæ tej komórki powinna byæ zgodna z odpowiedni¹ liczb¹ OxCGRTsuma_ind2020.csv.
+Patrz zrzut ekranu aruba.JPG.

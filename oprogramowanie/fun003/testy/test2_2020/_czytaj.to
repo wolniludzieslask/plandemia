@@ -1,0 +1,9 @@
+test klasy zgony_swiat_wm.ZgonySwiatWm.java
+rok 2020
+
+wczytanie pliku zgony_wm2020.txt do Open Office
+obliczenie sumy dla lat 2018, 2019, 2020 dla testowanego kraju
+obliczenie œredniej formu³a =ZAOKR((D214+E214) / 2) dla Barbadosu
+sprawdzenie z odpowiednimi liczbami w pliku zgony_wm2020suma.txt
+
+

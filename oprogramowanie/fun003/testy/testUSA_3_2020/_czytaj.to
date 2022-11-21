@@ -1,0 +1,16 @@
+Test klasy zgony_usa.SumarycznyIndeksRestr
+rok 2020
+Plik OxCGRT_US_latest.csv zawiera ponad 52 tys. wierszy, wiêc lepiej testowaæ dane dla wybranych
+stanów.
+Notepad++ dobrze radzi³ sobie z tak du¿ym plikiem, wiêc w pierwszym etapie w tym edytorze do osobnego pliku
+kopiowa³em nag³ówek pliku OxCGRT_US_latest.csv, a potem dane dla wybranego stanu.
+W drugim kroku dodawa³em odpowiednie kolumny dla wszystkich indeksów polityki tak samo, 
+jak w pliku test_indeksy_polityki.ods.
+W trzecim kroku dodawa³em 2 wiersze u góry i kopiowa³em wiersze 1 i 2 z pliku test_indeksy_polityki.ods.
+W czwartym kroku kopiowa³em formu³y indeksów z pliku test_indeksy_polityki.ods
+do odpowiednich komórek w wierszu4.
+Pi¹ty krok to jest skopiowanie formu³ indeksów z wiersza 4 do pozosta³ych wierszy kolumny BC. 
+Na przyk³ad w pliku alabama.ods dla roku 2020 kopiujemy formu³ê I4 do komórek od I5 do I1010.
+Teraz mo¿emy dodaæ wiersz 370 i w komórce I370 wysumowaæ komórki od I4 do I369.
+Wartoœæ tej komórki powinna byæ zgodna z odpowiedni¹ liczb¹ OxCGRT_US_suma_ind_restr2020.csv.
+Patrz zrzut ekranu alabama.JPG.

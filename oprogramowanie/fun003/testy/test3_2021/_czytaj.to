@@ -1,0 +1,8 @@
+1. Test klasy indeksy_covid.SumaryczneIndeksyPolityki
+rok 2021
+patrz plik _czytaj.to w katalogu test3_2020
+do testu u¿yæ pliku aruba.ods z katalogu test3_2020
+Otworzyæ plik aruba.ods. Skopiowaæ formu³ê z komórki I4 do komórek od I371 do I735.
+Dodaæ wiersz 736. W komórce I736 wysumowaæ komórki od I371 do I735.
+Wartoœæ w komórce I736 powinna byæ taka sam, jak odpowiednia wartoœæ z pliku OxCGRTsuma_ind2021.csv.
+patrz zrzut ekranu aruba.JPG

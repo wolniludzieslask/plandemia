@@ -1,0 +1,5 @@
+Test klasy zgony_usa.SumarycznyIndeksRestr2021
+Wczytaæ alabama.ods.
+Dodaæ wiersz 736 i w komórce I736 wysumowaæ komórki od I371 do I736.
+Wartoœæ tej komórki powinna byæ zgodna z odpowiedni¹ liczb¹ OxCGRT_US_suma_ind_restr2021.csv.
+Patrz zrzut ekranu alabama.JPG.

@@ -1,0 +1,5 @@
+test klasy zgony_usa.ZgonyTygodniowo2021_1
+Wczytaæ arkusz testUSA_2_2020/Weekly_Provisional_Counts_of_Deaths_by_State_and_Select_Causes__2020-2022.ods
+Dodaæ wiersz 250. W komórce F250 wpisaæ formu³ê =SUMA(F198:F249)
+Liczba w tej komórce powinna byæ zgodna z odpowiedni¹ liczb¹ w pliku zgony2021us.txt.
+Patrz zrzut ekranu.

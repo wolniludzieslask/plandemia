@@ -1,0 +1,40 @@
+load 'C:\programy\gnuplot\moje_pliki\zgony2021swiat_ind_restr3.scr'  
+
+* FILE: 
+  Records:           89
+  Out of range:       0
+  Invalid:            0
+  Blank:              0
+  Data Blocks:        1
+
+* COLUMNS:
+  Mean:              22.8840        168833.1466
+  Std Dev:           16.1751         35233.7158
+  Sample StdDev:     16.2667         35433.3418
+  Skewness:           0.7122            -0.0802
+  Kurtosis:           2.8437             2.4130
+  Avg Dev:           13.4519         28648.6906
+  Sum:             2036.6800        1.50262e+007
+  Sum Sq.:        69892.7658        2.64740e+012
+
+  Mean Err.:          1.7146          3734.7664
+  Std Dev Err.:       1.2124          2640.8786
+  Skewness Err.:      0.2596             0.2596
+  Kurtosis Err.:      0.5193             0.5193
+
+  Minimum:           -0.3700 [47]    80300.0000 [51]
+  Maximum:           70.8300 [64]   234225.0000 [64]
+  Quartile:           9.4900        141937.5000
+  Median:            20.7200        168933.3300
+  Quartile:          35.2300        196333.3300
+
+  Linear Model:       y = 541.6 x + 1.564e+005
+  Slope:              541.6 +- 226.2
+  Intercept:          1.564e+005 +- 6339
+  Correlation:        r = 0.2486
+  Sum xy:             3.565e+008
+
+Po usuniêciu 4 krajów patrz zgony_wm_sz_ir2021suma_ind3.csv.czytaj.
+
+Dla porównania zgony2021swiat_ind_restr1.png.czytaj:
+Correlation:        r = 0.2376

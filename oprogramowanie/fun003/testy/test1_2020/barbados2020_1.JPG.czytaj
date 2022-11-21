@@ -1,0 +1,9 @@
+Zrzut ekranu przedstawia od lewej (w 4-ech kolumnach bia³e litery na czarnym tle):
+1) plik world_mortality.csv z liczbami zgonów w Barbadosu dla poszczególnych tygodni 2018 roku
+2) plik world_mortality.csv z liczbami zgonów w Barbadosu dla poszczególnych tygodni 2019 roku
+3) plik world_mortality.csv z liczbami zgonów w Barbadosu dla poszczególnych tygodni 2020 roku
+4) plik zgony_wm2020.txt z przepisanymi liczbami z pliku world_mortality.csv w formacie
+NazwaKraju,RodzajOkresu,NumerOkresu,Zgony2018,Zgony2019,Zgony2020
+Punkt 4 to efekt dzia³ania klasy zgony_swiat_wm.FormatZgonySwiatWm
+Ze wzglêdu na drobn¹ czcionkê najlepiej czytaæ plik JPG za pomoc¹ programu IrfanView lub innego, który
+zapewni dobr¹ widocznoœæ tekstu.

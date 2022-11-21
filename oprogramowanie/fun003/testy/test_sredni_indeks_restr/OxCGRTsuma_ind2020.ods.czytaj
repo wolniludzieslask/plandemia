@@ -1,0 +1,4 @@
+Wczytany plik OxCGRTsuma_ind2020.csv
+Dodano œredni indeks restrykcyjnoœci.
+Dla Aruby to jest formu³a w komórce S2:
+=SUMA(B2:I2;O2) / 9 / R2

@@ -1,0 +1,6 @@
+Test klasy konwersje.SumarycznyIndeksRestrykcyjnosciWm2020
+Wczytaæ arkusz aruba.ods.
+Skopiowaæ formu³ê z komórki BC4 fo komórek od BC5 do BC369.
+W komórce BC wysumowaæ komórki od  BC5 do BC369.
+Wartoœæ komórki powinna byæ zgodna z odpowiedni¹ wartoœci¹ w pliku zgony_wm_sz_ir2020suma_ind1.csv
+Patrz zrzut aruba.JPG

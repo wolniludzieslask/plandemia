@@ -1,0 +1,7 @@
+test klasy zgony_swiat_wm.ZgonySwiatWm.java
+rok 2021
+
+wczytanie pliku zgony_wm2021.txt do Open Office
+obliczenie sumy dla lat 2018, 2019, 2021 dla testowanego kraju
+obliczenie œredniej formu³a =ZAOKR((D3302+E3302)/2) dla Uzbekistanu
+sprawdzenie z odpowiednimi liczbami w pliku zgony_wm2021suma.txt

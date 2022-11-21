@@ -11,8 +11,12 @@ pli wy: sredni_indeks_restr2020.txt
 
 2. zgony_swiat_wm.ZgonySwiatSredniIndeksRestr.java
 plik we: zgony_wm_sz_ir2020suma_ind2.csv
-plik wy: zgony_sredni_indeks_restr2020.tx
+plik wy: zgony_sredni_indeks_restr2020.txt
 pliku indeksu restrykcyjności: sredni_indeks_restr2020.txt
+
+3. load 'zgony2020swiat_sredni_ind_restr.scr'
+plik we: zgony_sredni_indeks_restr2020.txt
+plik wy: zgony2020swiat_sredni_ind_restr.png
 
 Współczynnik korelacji Pearsona między wzrostem liczby zgonów
 a średnim indeksem restrykcyjności pozostaje niemal taki sam:
