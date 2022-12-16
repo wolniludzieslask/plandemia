@@ -1,0 +1,24 @@
+Porównanie końcowych list państw w dwóch zestawieniach:
+fun002 Nadmiarowe zgony na świecie 2020/2021 (19 maja 2022)
+fun003 Zgony i restrykcje (12 listopada 2022)
+
+Dane w arkuszach są posortowane po nazwach krajów. Dodano puste wiersze w miejscu, gdzie w odpowiednim
+miejscu w porównywanym zestawieniu jest brakujący kraj. Wszystkie 4 arkusze mają po 104 wiersze.
+
+Kraje fun003, których brak w fun002 (4 kraje):
+Belize
+Bermudy
+Jordania
+Kuba
+
+Kraje fun002, których brak w fun003 (10 krajów):
+Antigua i Barbuda
+Armenia
+Czarnogóra
+Gujana Francuska
+Gwadelupa
+Macedonia Północna
+Majotta
+Naddniestrze
+Polinezja Francuska
+Reunion

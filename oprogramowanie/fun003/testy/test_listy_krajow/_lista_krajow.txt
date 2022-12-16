@@ -1,0 +1,100 @@
+Test sprawdzający kompletność listy krajów w końcowych zestawieniach
+
+Baza World Mortality Dataset zawiera 121 krajów.
+
+punkt 2. klasa zgony_swiat_wm.ZgonySwiatWm2021.java
+schemat_operacji_swiat2021.png.czytaj
+Lista zgony_wm2021suma.txt zawiera 108 krajów.
+Odpadły kraje ze względu na brak danych w roku 2021.
+Sprawdzenie. Wczytanie do Open Office plików zgony_wm2020suma.txt (121 krajów) i zgony_wm2021suma.txt.
+Dodanie pustych wierszy w arkuszu zgony_wm2021suma.txt w miejsce brakujących krajów
+i porównanie z listą zgony_wm2020suma.txt. 
+Sprawdzenie ostatnich danych za 2021 w pliku world_mortality.csv.
+Brakujące kraje w zgony_wm2021suma.txt wraz z ostatnim wierszem danych dla tego kraju:
+Algieria
+DZA,Algeria,2020,12,monthly,21397
+
+Andora
+AND,Andorra,2020,12,monthly,41
+
+Argentyna
+ARG,Argentina,2020,12,monthly,31624
+
+Brunei
+BRN,Brunei,2020,12,monthly,140
+
+Republika Zielonego Przylądka
+CPV,Cabo Verde,2020,12,monthly,273
+
+Salwador
+SLV,El Salvador,2020,8,monthly,5210
+
+Kuwejt
+KWT,Kuwait,2020,12,monthly,802
+
+Malediwy
+MDV,Maldives,2020,12,monthly,96
+
+Nikaragua
+NIC,Nicaragua,2020,12,monthly,2322
+
+Palestyna
+PSE,Palestine,2020,12,monthly,1898
+
+Saint Kitts i Nevis
+KNA,Saint Kitts and Nevis,2020,12,monthly,32
+
+Surinam
+SUR,Suriname,2020,12,monthly,350
+
+Tadżykistan
+TJK,Tajikistan,2020,12,monthly,3303
+
+Razem 13 krajów + 108 = 121
+
+Arkusz C:\rob\pandemia_strona\oprogramowanie\fun003\testy\test_listy_krajow\zgony_wm2021suma_porownanie2020.ods 
+zawiera zmodyfikowaną listę zgony_wm2021suma.txt z pustymi wierszami. Lista do powrównania
+z listą zgony_wm2020suma.txt.
+
+punkt 4. klasa zgony_swiat_wm.ZgonySwiatWmSzIndPol1
+schemat_operacji_swiat2021.png.czytaj
+W pliku kom_zgony_wm_sz_ir2021suma_ind.txt jest lista krajów, które występują w bazie World Mortality Dataset, ale nie występują w bazie Oxford Covid-19 Government Response Tracker.
+Są to następujące kraje (po przecinku nazwa polska):
+Antigua and Barbuda,Antigua i Barbuda
+Armenia,Armenia
+French Guiana,Gujana Francuska
+French Polynesia,Polinezja Francuska
+Gibraltar,Gibraltar
+Guadeloupe,Gwadelupa
+Martinique,Martynika
+Mayotte,Majotta
+Montenegro,Czarnogóra
+New Caledonia,Nowa Kaledonia
+North Macedonia,Macedonia Północna
+Réunion,Reunion
+Saint Vincent and the Grenadines,Saint Vincent i Grenadyny
+Transnistria,Naddniestrze
+
+Z listy 108 krajów z pliku zgony_wm2021suma.txt odpada powyższe 14 krajów.
+W edytorze (np. Notepad++) wczytujemy plik OxCGRT_latest.csv i wyszukujemy kolejno słowa:
+Antigua
+Armenia
+Guiana
+Polynesia
+Gibraltar
+Guadeloupe
+Martinique
+Mayotte
+Montenegro
+Caledonia
+Macedonia
+union
+Vincent
+Transnistria
+Żaden z tych łańcuchów nie występuje w pliku OxCGRT_latest.csv, więc uznaję, że tych krajów
+nie ma w bazie Oxford Covid-19 Government Response Tracker.
+
+108 - 14 = 94 kraje w pliku zgony_wm_sz_ir2021suma_ind.txt
+
+W punkcie 5 operacji dla roku 2021 (patrz plik schemat_operacji_swiat2021.png.czytaj) usuwamy
+Białoruś i zostają 93 kraje w pliku zgony_wm_sz_ir2021suma_ind.csv.
