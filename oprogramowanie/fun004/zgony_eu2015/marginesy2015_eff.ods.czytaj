@@ -1,0 +1,38 @@
+1) C2,D2,E2 wzór (36) 
+C:\rob\inne\statystyka\applications-of-error-propagation-analysis-to-the-uncertainties-of-regression-models.pdf
+
+2) na podstawie wzoru na df
+w C:\rob\inne\statystyka\ap05_stats_allwood_fin4prod.pdf (str 2)
+F2 - licznik wzoru
+G2 - mianownik wzoru
+H2 - iloraz df
+I2 - liczba ca³kowita zaokr¹glona w dó³ (patrz
+str 98 C:\rob\inne\statystyka\przewodnik_jcgm_100_ver__fin_27_08_2019_popr_.pdf)
+
+3) J2 - to chyba mój pomys³, ¿eby obliczyæ po³¹czony b³¹d 3-ech liczb C2,D2,E2 wg wzoru
+na przenoszenie niepewnoœci, patrz np. str 1 C:\rob\inne\statystyka\Taylor.pdf
+lub str 2 C:\rob\inne\statystyka\wstp-do-analizy-bdu-pomiarowego_compress.pdf (wersja polska)
+K2 - odwrotnoœæ rozk³adu T
+patrz str 98 C:\rob\inne\statystyka\przewodnik_jcgm_100_ver__fin_27_08_2019_popr_.pdf
+'wspó³czynnika rozszerzenia k = 2,92 okreœlonym z rozk³adu t-Studenta dla stopni swobody v = 16'
+L2 - niepewnoœæ rozszerzona
+patrz str 98 C:\rob\inne\statystyka\przewodnik_jcgm_100_ver__fin_27_08_2019_popr_.pdf
+'gdzie liczba za symbolem ± jest wartoœci¹ niepewnoœci rozszerzonej U = k uc'
+
+df = 5.7, po zaokr¹leniu 5
+porównaj
+If you are using a Welch 2-sample t test, with sample sizes n1 and n2, then the Satterthwaite DF v
+must have
+min(n1-1,n2-1)=<v=<n1+n2-2
+welch_test.txt
+czyli 2=<v=<4
+
+porównaj
+punkt 2)  str 98 C:\rob\inne\statystyka\przewodnik_jcgm_100_ver__fin_27_08_2019_popr_.pdf
+min(24,5,8) = 5
+n1+n2+n3-2 = 25+6+9-2 = 38
+veff = 25.6
+5=<25.6=<38
+
+prezentacja wyników patrz C:\rob\inne\statystyka\analiza_bledow.pdf.czytaj
+metody wyznaczania niepewnoœci rozszerzonej patrz C:\rob\inne\statystyka\analiza_bledow.pdf.czytaj
