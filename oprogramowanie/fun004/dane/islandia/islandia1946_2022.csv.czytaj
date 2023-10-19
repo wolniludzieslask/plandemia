@@ -1,0 +1,10 @@
+dane z lat 1946-2022 z Wikipedii (zgodne ze stron¹ statice.is
+za wyj¹tkiem roku 2017)
+
+procedura otrzymania pliku islandia1946_2022.csv
+1) wczytaæ islandia_porownanie.ods do Open Office
+2) skopiowaæ 
+c119 -> b119
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako islandia1946_2022.csv

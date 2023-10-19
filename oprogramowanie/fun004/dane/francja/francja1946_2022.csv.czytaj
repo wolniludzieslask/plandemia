@@ -1,0 +1,11 @@
+dane z lat 1946-2022 z Wikipedii
+za wyj¹tkiem lat 2009 i 2022, dla których dane s¹ ze strony www.insee.fr
+
+procedura otrzymania pliku francja1946_2022.csv
+1) wczytaæ francja_porownanie.ods do Open Office
+2) skopiowaæ 
+c111 -> b111
+c124 -> b124
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako francja1946_2022.csv

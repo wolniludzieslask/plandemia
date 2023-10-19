@@ -1,0 +1,9 @@
+dane z lat 1948-2022 z Wikipedii (zgodne ze stron¹ www.estadistica.ad)
+dane z roku 2018 ze strony www.estadistica.ad
+
+procedura otrzymania pliku andora1948_2022.csv
+1) wczytaæ andora_porownanie.ods do Open Office
+2) skopiowaæ c72->b72
+3) usun¹æ kolumny C, D, E
+4) usun¹æ 1-y wiersz (nag³ówek)
+5) zapisaæ jako andora1948_2022.csv

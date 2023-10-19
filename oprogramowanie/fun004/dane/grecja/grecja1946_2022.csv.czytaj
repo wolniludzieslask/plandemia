@@ -1,0 +1,14 @@
+dane z lat 1946-2022 s¹ z Wikipedii (zgodne ze stron¹ www.statistics.gr w latach 1946-2021)
+za wyj¹tkiem lat 1986,1987,1988,1989,2000,2020,2021, dla których dane
+s¹ ze strony www.statistics.gr
+
+procedura otrzymania pliku grecja1946_2022.csv
+1) wczytaæ grecja_porownanie.ods do Open Office
+2) skopiowaæ 
+c67:c70 -> b67:b70
+c81 -> b81
+c101 -> b101
+c102 -> b102
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-26
+5) zapisaæ jako grecja1946_2022.csv

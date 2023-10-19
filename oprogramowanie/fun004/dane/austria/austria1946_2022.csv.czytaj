@@ -1,0 +1,8 @@
+dane z lat 1946-2010 z Wikipedii
+z lat 2011-2022 z Wikipedii (zgodne ze stron¹ www.statistik.at)
+
+procedura otrzymania pliku austria1946_2022.csv
+1) wczytaæ austria_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersze 1-47
+4) zapisaæ jako austria1946_2022.csv

@@ -1,0 +1,11 @@
+porównanie zgonów miêdzy Wikipedi¹ (plik francja_wiki.txt)
+a stron¹ www.insee.fr (plik yearly_values.csv - przekszta³cony z pliku monthly_values.csv)
+w latach 1946-2022
+ró¿nice w latach 2009,2022 (0.009% i -1.12%)
+
+Jak powsta³ plik yearly_values.csv?
+1) W pliku monthly_values.csv dodano sumy miesiêcznych wartoœci dla ka¿dego roku -
+kolumna C w arkuszu monthly_values_sum_year.ods.
+2) W arkuszu monthly_values_sum_year.ods usuniêto wiersze, w których nie ma sum rocznych,
+zamieniono wartoœci pierwszej kolumny na rok np. z ³añcucha 1946-12 zrobiono ³añcuch 1946,
+zapisano do pliku yearly_values.csv.

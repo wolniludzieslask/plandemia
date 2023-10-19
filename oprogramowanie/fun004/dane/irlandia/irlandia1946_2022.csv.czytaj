@@ -1,0 +1,13 @@
+dane z arkusza irlandia_porownanie.ods
+dane z lat 1946-1988 z Wikipedii
+dane z lat 1989-2022 ze strony www.cso.ie, dla których dane z lat 1995-1999,2016,2018,2020
+s¹ niezgodne z Wikipedi¹
+dane ze strony www.cso.ie pochodz¹ z pliku VSA09.20230901T100953.csv
+
+procedura otrzymania pliku irlandia1946_2022.csv
+1) wczytaæ irlandia_porownanie_rok.ods do Open Office
+2) skopiowaæ 
+c79:c112 -> b79:b112
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-35
+5) zapisaæ jako irlandia1946_2022.csv

@@ -1,0 +1,14 @@
+dla 1946-1949 dane z Wikipedii
+dla 1950-2022 dane z www.cbs.nl
+dane w latach 1950-2021 takie same na Wikipedii i stronie www.cbs.nl
+z wyj¹tkiem lat 1998,2014
+
+procedura otrzymania pliku holandia1946_2022.csv
+1) wczytaæ holandia_porownanie.ods do Open Office
+2) skopiowaæ 
+c100 -> b100
+c116 -> b116
+c124 -> b124
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako holandia1946_2022.csv

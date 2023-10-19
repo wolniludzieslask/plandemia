@@ -1,0 +1,19 @@
+populacja
+https://www.dst.dk/en/Statistik/emner/borgere/befolkning
+
+Related content in Population (napis gdzieœ na dole)
+Tables in Statbank (link dodanych)
+
+https://www.statbank.dk/3401
+rozwin¹æ Deaths
+wybraæ Deaths by sex and age (1974-2022)
+
+po pokazaniu siê pozycji Men i Women wybraæ link Calculate
+1 Sum (domyœlnie)
+2 wybraæ sex
+poka¿e siê dodatkowy wiersz Subtotal
+
+potem Download file as 
+wybraæ Comma sep. (*.csv)
+
+zostanie pobrany plik csv

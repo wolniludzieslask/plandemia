@@ -1,0 +1,22 @@
+https://www.cso.ie/en/databases/
+
+ You are here: > Home / Databases 
+data.cso.ie - CSO's PxStat Open Data Statistical Database
+wchodzi na stronê
+https://data.cso.ie/#
+
+
+w menu z boku
+People and Society
+    Home
+    Births, Deaths & Marriages
+    Births, Deaths and Marriages
+
+
+Current
+VSQ04
+Last Updated: 25/08/2023 11:00:00
+Total Births, Deaths and Marriages Registered
+
+English
+StateQuarter1960Q1 - 2023Q1 

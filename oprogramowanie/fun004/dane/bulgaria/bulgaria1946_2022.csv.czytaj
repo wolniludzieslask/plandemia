@@ -1,0 +1,8 @@
+dane z lat 1946-2022 z Wikipedii
+w latach 2004-2009 dane zgodne ze stron¹ www.nsi.bg
+
+procedura otrzymania pliku bulgaria1946_2022.csv
+1)  wczytaæ bulgaria_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersze 1-6
+4) zapisaæ jako bulgaria1946_2022.csv

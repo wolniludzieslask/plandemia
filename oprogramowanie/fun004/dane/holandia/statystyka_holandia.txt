@@ -1,0 +1,25 @@
+https://www.cbs.nl/en-gb
+
+na dole link
+Open Data
+
+StatLine open data
+
+The tables which can be viewed and downloaded in 
+StatLine are also available as open data. The collection of datasets can be searched in the 
+StatLine data portal
+
+wybraæ Select theme
+Population
+Population development
+Deaths
+Mortality;key figures
+Preview table
+
+¿eby wyœwietli³y siê wszystkie lata 1950-2022
+trzeba nacisn¹æ ikonkê obok S³owa Periods
+poka¿e siê lista lat
+trzeba zaznaczyæ rêcznie wszystkie lata
+¿eby ograniczyæ tylko do zgonów Total deaths
+trzeba nacisn¹æ ikonkê obok s³owa Topic
+i odznaczyæ odpowiednie pozycje zostawiaj¹c Total deaths

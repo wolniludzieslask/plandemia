@@ -1,0 +1,9 @@
+dane z lat 1950-2022 z Wikipedii (zgodne ze stron¹ www.monstat.org)
+w roku 1991 dane ze strony www.monstat.org
+
+procedura otrzymania pliku czarnogora1950_2022.csv
+1) wczytaæ czarnogora_porownanie.ods do Open Office
+2) skopiowaæ c43 -> b43
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersz 1
+5) zapisaæ jako czarnogora1950_2022.csv

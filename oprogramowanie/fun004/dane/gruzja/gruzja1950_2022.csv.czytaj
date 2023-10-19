@@ -1,0 +1,8 @@
+dane z lat 1950-2022 z Wikipedii (zgodne ze stron¹ pc-axis.geostat.ge
+w latach 1994-2021)
+
+procedura otrzymania pliku gruzja1950_2022.csv
+1) wczytaæ gruzja_porownanie.ods do Open Office
+3) usun¹æ kolumny C, D
+4) usun¹æ wiersz 1
+5) zapisaæ jako gruzja1950_2022.csv

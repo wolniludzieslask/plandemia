@@ -1,0 +1,8 @@
+w latach 1946-2022 dane z Wikipedii (zgodne ze stron¹ www.ine.es w latach 1992-2021
+z wyj¹tkiem roku 2019)
+
+procedura otrzymania pliku hiszpania1946_2022.csv
+1) wczytaæ hiszpania_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersze 1-47
+4) zapisaæ jako hiszpania1946_2022.csv

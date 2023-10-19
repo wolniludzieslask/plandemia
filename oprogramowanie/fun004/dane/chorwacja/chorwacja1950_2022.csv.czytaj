@@ -1,0 +1,8 @@
+dane z lat 1950-2022 z Wikipedii
+dane w latach 2011-2022 zgodne ze stron¹ podaci.dzs.hr
+
+procedura otrzymania pliku chorwacja1950_2022.csv
+1) wczytaæ chorwacja_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersz 1
+4) zapisaæ jako chorwacja1950_2022.csv

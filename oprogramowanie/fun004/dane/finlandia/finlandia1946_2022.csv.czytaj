@@ -1,0 +1,10 @@
+dane z lat 1946-2022 z Wikipedii (zgodne ze stron¹ www.stat.fi)
+za wyj¹tkiem roku 1990, dla którego dane s¹ ze strony www.stat.fi
+
+procedura otrzymania pliku finlandia1946_2022.csv
+1) wczytaæ finlandia_porownanie.ods do Open Office
+2) skopiowaæ 
+c92 -> b92
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako finlandia1946_2022.csv

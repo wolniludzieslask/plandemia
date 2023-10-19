@@ -1,0 +1,8 @@
+dane z lat 1946-2022 z Wikipedii (zgodne ze stron¹ osp.stat.gov.lt
+w latach 1994-2022)
+
+procedura otrzymania pliku litwa1946_2022.csv
+1) wczytaæ litwa_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersze 1-2
+4) zapisaæ jako litwa1946_2022.csv

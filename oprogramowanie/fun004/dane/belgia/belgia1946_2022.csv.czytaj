@@ -1,0 +1,9 @@
+dane z lat 1946-2021 z Wikipedii (zgodne ze stron¹ statbel.fgov.be)
+z roku 2022 ze strony statbel.fgov.be
+
+procedura otrzymania pliku belgia1946_2022.csv
+1) wczytaæ belgia_porownanie.ods do Open Office
+2) skopiowaæ c124->b124
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako belgia1946_2022.csv

@@ -1,0 +1,11 @@
+dane z lat 1946-2022 z Wikipedii za wyj¹tkiem lat 2004,2013, które s¹ ze strony www.dst.dk) 
+(w latach 1974-2022 zgodne ze stron¹ www.dst.dk)
+
+procedura otrzymania pliku dania1946_2022.csv
+1) wczytaæ dania_porownanie.ods do Open Office
+2) skopiowaæ 
+c106 -> b106
+c115 -> b115
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako dania1946_2022.csv

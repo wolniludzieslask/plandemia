@@ -1,0 +1,9 @@
+dane z lat 1974-2019 ze strony www.cystat.gov.cy
+z lat 2020-2022 z Wikipedii
+
+procedura otrzymania pliku cypr1974_2022.csv
+1) wczytaæ cypr_porownanie.ods
+2) skopiowaæ c2:c17 -> b2:b17
+3) usun¹æ kolumny C, D
+4) usun¹æ wiersz 1
+5) zapisaæ jako cypr1974_2022.csv

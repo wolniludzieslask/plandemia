@@ -1,0 +1,11 @@
+https://statbel.fgov.be/en
+
+rozwin¹æ menu THEMES
+a potem
+Population movements
+Deaths
+
+wybraæ Figures
+na dole w sekcji Downloads pozycja
+Evolution of deaths per month since 1840
+zostanie pobrany plik xlsx
