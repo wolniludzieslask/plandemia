@@ -1,0 +1,766 @@
+Roczniki statystyczne i demograficzne z Centralnej Biblioteki Statystycznej
+
+https://cbs.stat.gov.pl/
+Wybraæ link "Katalog ALEPH"
+Katalog ALEPH - Wyszukiwanie, Fraza do wyszukania: Rocznik statystyczny rrrr, gdzie rrrr 
+to poszukiwana data, s³owa s¹siaduj¹ce? - Nie, jêzyk polski. Po wyszukaniu dalsze roczniki 
+mo¿na wyszukiwaæ korzystaj¹c z pola na dole strony. Od 1998 zmiana tytu³u na Rocznik statystyczny 
+Rzeczypospolitej Polskiej. Ma³y rocznik statystyczny (1958-1999), w 2000 zmiana tytu³u 
+na Ma³y rocznik statystyczny Polski, Centralna Biblioteka Statystyczna
+
+Trzeba znaleŸæ odpowiedni¹ pozycjê na wyœwietlonych stronach. Wyœwietliæ pozycjê, mo¿na w osobnej
+zak³adce. Na samym dole znajduje siê link "Obiekt cyfrowy", który umo¿liwia wyœwietlenie
+pliku pdf. Plik pdf mo¿na pobraæ na dysk lokalny.
+
+Najpierw wyszukiwa³em 'Rocznik demograficzny rrrr'. Jeœli nie by³o, to wyszukiwa³em
+'Rocznik statystyczny rrrr'.
+
+W Ma³ym roczniku statystycznym 1965 nie znalaz³em danych o zgonach.
+
+rocznik demograficzny 2022
+str 314 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2020 477355
+2021 519517
+
+rocznik demograficzny 2021
+str 315 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2019 409709
+2020 477355
+
+rocznik demograficzny 2020
+str 316 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2018 414200
+2019 409709
+
+rocznik demograficzny 2019
+str 298 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2017 402852
+2018 414200
+
+rocznik demograficzny 2018
+str 302 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2016 388009
+2017 402852
+
+rocznik demograficzny 2017
+str 304 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2015 394921
+2016 388009
+
+rocznik demograficzny 2016
+str 302 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2014 376467
+2015 394921
+
+rocznik demograficzny 2015
+str 324 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2013 387312
+2014 376467
+
+rocznik demograficzny 2014
+str 362 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2012 384788
+2013 387312
+
+rocznik demograficzny 2013
+str 344 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2010 378478
+2011 375501
+2012 384788
+
+rocznik demograficzny 2012
+str 318 pdf Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2005 368285
+2010 378478
+2011 375501
+
+rocznik demograficzny 2011
+str 298 (298) Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2005 368285
+2009 384940
+2010 378478
+
+rocznik demograficzny 2010
+str 308 (308) Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2005 368285
+2008 379399
+2009 384940
+
+rocznik demograficzny 2009
+str 308 (308) Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2005 368285
+2007 377226
+2008 379399
+
+rocznik demograficzny 2008
+str 336 (336) Zgony wed³ug p³ci
+1980 353164
+1990 390343
+2000 368028
+2005 368285
+2006 369686
+2007 377226
+
+rocznik demograficzny 2007
+str 346 (346) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+2000 368028
+2004 363522
+2005 368285
+2006 369686
+
+rocznik demograficzny 2006
+str 356 (356) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+2000 368028
+2004 363522
+2005 368285
+
+rocznik demograficzny 2005
+str 352 (352) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+2000 368028
+2003 365230
+2004 363522
+
+rocznik demograficzny 2004
+str 348 (348) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+2000 368028
+2002 359486
+2003 365230
+
+rocznik demograficzny 2003
+str 284 (284) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+2000 368028
+2001 363220
+2002 359486
+
+rocznik demograficzny 2002
+str 324 (250) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+1995 386084
+2000 368028
+2001 363220
+
+rocznik demograficzny 2001
+str 350 (276) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+1995 386084
+1999 381415
+2000 368028
+
+rocznik demograficzny 2000
+str 348 pdf Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+1995 386084
+1998 375354
+1999 381415
+
+rocznik demograficzny 1999
+str 242 pdf Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+1995 386084
+1997 380201
+1998 375354
+
+rocznik demograficzny 1998
+str 308 pdf Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1990 390343
+1995 386084
+1996 385496
+1997 380201
+
+rocznik demograficzny 1997
+str 282 pdf (218) Zgony wed³ug p³ci
+1970 268645
+1980 353164
+1985 383987
+1990 390343
+1995 386084
+1996 385496
+
+rocznik statystyczny demografii 1996
+str 277 (216) Zgony wed³u p³ci
+1970 268645
+1980 353164
+1985 383987
+1990 390343
+1994 386398
+1995 386084
+
+rocznik statystyczny demografii 1995
+str 284 Zgony wed³u p³ci
+1970 268645
+1980 353164
+1985 383987
+1990 390343
+1993 392259
+1994 386398
+liczby zgonów skorygowane
+
+rocznik statystyczny demografii 1994
+str 252 Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1990 388440
+1992 393131
+1993 390874
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik statystyczny demografii 1994
+str 198 (142) Urodzenia
+1993 1385
+392259(rocznik statystyczny demografii 1995) - 390874(rocznik statystyczny demografii 1994) = 1385
+
+rocznik statystyczny demografii 1993
+str 242 (190)  Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1990 388440
+1991 403951
+1992 393131 (394729)
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik statystyczny demografii 1993
+str 192 (140) Urodzenia
+1992 1598
+393131 + 1598 = 394729
+
+demografia 1992
+str 220 (168) Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1989 381173
+1990 388440
+1991 403951 (405716)
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+demografia 1992
+str 122 (122) Urodzenia
+1991 1765
+403951 + 1765 = 405716
+
+demografia 1991
+str 216 (166) pdf Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1988 370821
+1989 381173
+1990 388440 (390343)
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+demografia 1991
+str 168 (120) Urodzenia
+1990 1903
+388440 + 1903 = 390343
+
+demografia 1990
+str 258 (196) Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1987 378365
+1988 370821
+1989 381173 (383074)
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+demografia 1990
+str 210 (150) Urodzenia
+1989 1901
+381173 + 1901 = 383074
+
+rocznik demograficzny 1989
+str 154 (100) Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1987 378365
+1988 370821 (373018)
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1989
+str 106 (54) Urodzenia
+1988 2197
+370821 + 2197 = 373018
+
+rocznik demograficzny 1988
+str 204 (168) Zgony wed³u p³ci
+1970 266799
+1980 350203
+1985 381472
+1986 376316
+1987 378365
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1988
+str 156 (122) Urodzenia
+1987 2298
+
+rocznik demograficzny 1987
+str 202 (168) Zgony wed³u p³ci
+1970 266799
+1975 296896
+1980 350203
+1985 381472
+1986 376316
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1987
+str 154 (122) Urodzenia
+1986 2465
+
+rocznik demograficzny 1986
+str 197 (162) Zgony wed³u p³ci
+1970 266799
+1975 296896
+1980 350203
+1984 364863
+1985 381472
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1986
+str 151 (118) Urodzenia
+1985 2515
+
+rocznik demograficzny 1985
+str 179 (152) Zgony wed³u p³ci
+1970 266799
+1975 296896
+1980 350203
+1983 349388
+1984 364883
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1985
+str 133 (108) Urodzenia
+1984 2679
+
+rocznik demograficzny 1984
+str 188 (158) Zgony wed³u p³ci
+1970 266799
+1975 296896
+1980 350203
+1981 328923
+1982 334869
+1983 349388
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1984
+str 140 (112) Urodzenia
+1983 2849
+
+rocznik demograficzny 1983
+str 184 (156) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1975 296896
+1980 350203
+1981 328923
+1982 334869
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1983
+str 138 (110) Urodzenia
+1982 3005
+
+rocznik demograficzny 1982
+str 145 (117) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1975 296896
+1976 304057
+1977 312956
+1978 325104
+1979 323048
+1980 350203
+1981 328923
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1982
+str 95 (69) Urodzenia
+1981 2961
+
+rocznik demograficzny 1981
+str 33 (131) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1975 296896
+1976 304057
+1977 312956
+1978 325104
+1979 323048
+1980 350203
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1981
+str 126 (84) Urodzenia
+1980 2961
+
+
+rocznik demograficzny 1980
+str 184 (135) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1975 296896
+1976 304057
+1977 312956
+1978 325104
+1979 323048
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1980
+str 137 (90) Urodzenia
+1979 2936
+
+rocznik demograficzny 1979
+brak
+1978 325104
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+1978 2976
+
+rocznik demograficzny 1978
+str 130 (93) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+1972 265250
+1973 277188
+1974 277085
+1975 296896
+1976 304057
+1977 312956
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1978
+str 80 (45) Urodzenia
+1977 2639
+
+rocznik demograficzny 1977
+str 162 (129) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+1972 265250
+1973 277188
+1974 277085
+1975 296896
+1976 304057
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1977
+str 116 (85) Urodzenia
+1976 2724
+
+rocznik demograficzny 1976
+str 143 (111) Zgony wed³u p³ci
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+1972 265250
+1973 277188
+1974 277085
+1975 296896
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1976
+str 101 (71) Urodzenia
+1975 2609
+
+rocznik demograficzny 1975
+brak liczb na str 226
+str 228 (206) Zgony wed³ug p³ci
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+1972 265250
+1973 277188
+1974 277085
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1975
+str 201 (181) Urodzenia
+1974 2570
+
+rocznik demograficzny 1974
+brak liczb na str 201
+str 201 (154) Zgony wed³ug p³ci
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+1972 265250
+1973 277188
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1974
+str 150 (103) Urodzenia
+1973 2303
+
+rocznik demograficzny 1973
+brak liczb na str 239
+str 239 (202) Zgony wed³ug p³ci
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+1972 265250
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1973
+str 188 (143) Urodzenia
+1972 2168
+
+rocznik demograficzny 1972
+str 179 (153) Zgony wed³ug p³ci
+1950 288685
+1955 261576
+1960 224167
+1965 232421
+1970 266799
+1971 283702
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1972
+str 126 (100) Urodzenia
+1971 2040
+
+rocznik demograficzny 1971
+str 196 (179) Zgony wed³ug p³ci
+1950 288685
+1955 261576
+1960 224167
+1965 232421
+1966 232945
+1967 247705
+1968 244115
+1969 262823
+1970 266799
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1971
+str 112 (97) Urodzenia
+1960 -
+1965 1035
+1966 1009
+1967 1434
+1968 1577
+1969 1693
+1970 1846
+
+rocznik demograficzny 1967-1968
+str 272 (250) Zgony wed³ug p³ci
+1948 267328
+1949 280464
+1950 288685
+1951 312314
+1952 286730
+1953 266539
+1954 276406
+1955 261576
+1956 249606
+1957 269137
+1958 241435
+1959 252430
+1960 224167
+1961 227759
+1962 239199
+1963 230072
+1964 235919
+1965 232421
+1966 232945
+1967 247705
+1968 244103
+
+rocznik demograficzny 1945-1966
+str 455 (438) Zgony wed³ug p³ci
+1950 288685
+1955 261576
+1960 224167
+1966 232945
+
+str 212 (197) Ruch naturalny ludnoœci
+1900 657,4
+1910 650,5
+1920 720,8
+1930 488,4
+1938 480
+1946 241,8
+1947 258,4
+1948 267,3
+1949 280,5
+1950 288,7
+1951 312,3
+1952 286,7
+1953 266,5
+1954 276,4
+1955 261,6
+1956 249,6
+1957 269,1
+1958 241,4
+1959 252,4
+1960 224,2
+1961 227,7
+1962 239,2
+1963 230,1
+1964 235,9
+1965 232,4
+1966 232,9
+
+noworodki niezdolne do ¿ycia z oznakami ¿ycia
+rocznik demograficzny 1945-1966
+str  () Urodzenia
+brak takiej liczby
+
+Rocznik Statystyczny 1967
+str 59 rocznika
+1960 224,2
+1964 235,9
+1965 232,4
+
+rocznik statystyczny 1965
+str 124 pdf (50) Zgony wed³u p³ci i wieku
+1960 224,2
+1961 227,7
+1962 239,2
+1963 230,1
+
+rocznik statystyczny 1965
+str 116 (44) RUCH NATURALNY LUDNOŒCI
+zgony
+1950 288,7
+1951 312,3
+1952 286,7
+1953 266,5
+1954 276,4
+1955 261,6
+1956 249,6
+1957 269,1
+1958 241,4
+1959 252,4
+1960 224,2
+1961 227,7
+1962 239,2
+1963 230,1
+1964 235,9
+
+rocznik statystyczny 1956
+str 99 (69)
+zgony wed³ug p³ci i wieku
+zgony na 1000 ¿yj¹cych ka¿dej p³ci i wieku
+1950 12,1
+1953 10,7
+1954 10,9
+
+rocznik statystyczny 1955
+str 78 (51) RUCH NATURALNY LUDNOŒCI
+kolumna zgony w tabelce
+1950 288,7 (pierwszy rok po pozycji 1936-1938)
+
+wyszukanie rocznik statystyczny 1954
+Rocznik Polski : tablice statystyczne / 	1917 
+
+wyszukanie rocznik statystyczny 1951
+Rocznik statystyczny 1950. 	1951
+str 36 (18)
+zgony na 1000 ludnoœci
+1947 11,3
+1948 11,2
+1949 11,6
+
+Rocznik statystyczny 1950
+str 35 (17) 
+szacunek ludnoœci Polski wed³u p³ci i wieku
+w dn. 1 I 1949
+w tysi¹cach
+24160
+
+Rocznik statystyczny 1949
+str 47 (22)
+Urodzenia ¿ywe i zgony zarejestrowane w urzêdach stanu cywilnego
+na 1000 ludnoœci
+1947 11,2
+1948 11,1
+brak jest ca³kowitej liczby zgonów

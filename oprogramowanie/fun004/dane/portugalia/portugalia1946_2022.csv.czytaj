@@ -1,0 +1,11 @@
+dane z lat 1946-2022 z Wikipedii (zgodne ze stron¹ www.ine.pt
+w latach 2002-2022 za wyj¹tkiem roku 2021)
+za rok 2021 przyjêto dane ze strony www.ine.pt
+
+procedura otrzymania pliku portugalia1946_2022.csv
+1) wczytaæ portugalia_porownanie.ods do Open Office
+2) skopiowaæ 
+c123 -> b123
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako portugalia1946_2022.csv

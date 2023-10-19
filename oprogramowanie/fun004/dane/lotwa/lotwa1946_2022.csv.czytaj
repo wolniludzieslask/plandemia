@@ -1,0 +1,8 @@
+dane z lat 1946-2022 z Wikipedii (zgodne ze stron¹ www.csp.gov.lv
+w ca³ym okresie za wyj¹tkiem roku 1941, dla którego brak danych w pliku ze strony www.csp.gov.lv)
+
+procedura otrzymania pliku lotwa1946_2022.csv
+1) wczytaæ lotwa_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersze 1-27
+4) zapisaæ jako lotwa1946_2022.csv

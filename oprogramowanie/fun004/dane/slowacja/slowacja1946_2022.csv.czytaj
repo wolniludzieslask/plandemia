@@ -1,0 +1,11 @@
+dane z lat 1946-2022 z Wikipedii (zgodne ze stron¹ datacube.statistics.sk
+w latach 1993-2022 za wyj¹tkiem roku 1997)
+rok 1997 dane ze strony datacube.statistics.sk
+
+procedura otrzymania pliku slowacja1946_2022.csv
+1) wczytaæ slowacja_porownanie.ods do Open Office
+2) skopiowaæ 
+c80 -> b80
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-28
+5) zapisaæ jako slowacja1946_2022.csv

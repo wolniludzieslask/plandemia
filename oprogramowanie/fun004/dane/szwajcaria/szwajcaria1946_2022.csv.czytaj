@@ -1,0 +1,10 @@
+dane z lat 1946-2022 ze strony www.bfs.admin.ch (zgodne z Wikipedi¹
+w latach 1946-2022 za wyj¹tkiem lat 1968,1997,2001,2010,2021)
+
+procedura otrzymania pliku szwajcaria1946_2022.csv
+1) wczytaæ szwajcaria_porownanie.ods do Open Office
+2) skopiowaæ 
+c70:c123 -> b70:b123
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako szwajcaria1946_2022.csv

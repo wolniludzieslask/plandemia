@@ -1,0 +1,10 @@
+dane z lat 1900-2022 ze strony www.scb.se (zgodne z Wikipedi¹
+w latach 1900-2022 za wyj¹tkiem lat 1918,1972,1995,1997,1998,2000)
+
+procedura otrzymania pliku szwecja1946_2022.csv
+1) wczytaæ szwecja_porownanie.ods do Open Office
+2) skopiowaæ 
+c74:c102 -> b74:b102
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako szwecja1946_2022.csv

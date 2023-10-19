@@ -1,0 +1,22 @@
+https://nso.gov.mt/
+
+Data
+Database
+Demography
+
+s¹ 3 tabele
+3 results
+Crude Death Rate Crude Birth Rate and Total Fertility Rate
+
+Dimensions: Rate, Time Period
+
+Total Population by region, district and locality
+
+Dimensions: Region District Locality, Sex, Time Period
+
+Total Population by sex and single years of age
+
+Dimensions: Sex, Age 0 to 90, Time Period
+
+mo¿na wybraæ Data i Historical statistics
+ale tam s¹ dane z lat 1921-1938

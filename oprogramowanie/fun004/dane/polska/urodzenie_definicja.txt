@@ -1,0 +1,26 @@
+https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/858,archiwum.html
+Urodzenie
+Opis pojêcia który obowi¹zywa³ do: 31.12.2017
+
+Nazwa angielska:
+
+Birth
+
+Definicja:
+Ca³kowite wydalenie lub wydobycie z ustroju matki produktu zap³odnienia niezale¿nie 
+od czasu trwania ci¹¿y.
+
+Dodatkowe wyjaœnienia metodologiczne:
+
+Od 1963 roku do po³owy roku 1994 w praktyce medycznej i sprawozdawczoœci statystycznej 
+funkcjonowa³y cztery kategorie urodzenia: urodzenie ¿ywe, urodzenia martwe, 
+urodzenie noworodka niezdolnego do ¿ycia z oznakami ¿ycia oraz urodzenie noworodka 
+niezdolnego do ¿ycia bez oznak ¿ycia.
+
+W lipcu 1994 r. zosta³y wprowadzone w Polsce definicje urodzenia i zgonu noworodka zgodne 
+z rekomendacjami Œwiatowej Organizacji Zdrowia (WHO), tj. funkcjonuj¹ dwie kategorie: 
+urodzenie ¿ywe i urodzenie martwe. Urodzenie noworodka okreœlanego wczeœniej jako niezdolny 
+do ¿ycia z oznakami ¿ycia rejestrowano jako urodzenie ¿ywe, a nastêpnie jako zgon niemowlêcia; 
+z kolei urodzenie noworodka okreœlanego wczeœniej jako niezdolny do ¿ycia bez oznak ¿ycia 
+by³o rejestrowane jako urodzenie martwe.
+

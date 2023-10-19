@@ -1,0 +1,76 @@
+
+Statistical table extracted on September 01, 2023 (11:16:15)
+http://www.ine.pt
+
+
+
+Data reference period (1) ;Place of residence (NUTS - 2013) (2) ;Deaths (No.) by Place of residence (NUTS - 2013), Sex and Age -  Annual (3) ;
+;;Sex;
+;;MF;
+;;Age;
+;;Total;
+;;No. ;
+2022;PT: Portugal;124311;
+;1: Continente;118489;
+2021;PT: Portugal;124841;
+;1: Continente;119595;
+2020;PT: Portugal;123396;
+;1: Continente;118233;
+2019;PT: Portugal;111843;
+;1: Continente;106880;
+2018;PT: Portugal;113051;
+;1: Continente;108018;
+2017;PT: Portugal;109758;
+;1: Continente;104984;
+2016;PT: Portugal;110573;
+;1: Continente;105542;
+2015;PT: Portugal;108539;
+;1: Continente;103614;
+2014;PT: Portugal;104843;
+;1: Continente;99783;
+2013;PT: Portugal;106554;
+;1: Continente;101663;
+2012;PT: Portugal;107612;
+;1: Continente;102821;
+2011;PT: Portugal;102848;
+;1: Continente;97968;
+
+Deaths (No.) by Place of residence (NUTS - 2013), Sex and Age -  Annual - Statistics Portugal, Deaths
+
+Note(s):
+(1) Data for 2021 have been revised in May 2023, as a result of the final codification of causes of death in the death registers for 2021.
+<br>Data for 2022 are based on the information registered in the Civil Register Offices until March 2023.
+
+
+(2) From January 1st, 2015 came into force a new version of NUTS (NUTS 2013). At NUTS II level was just a name change in "Lisboa" which became known as "Área Metropolitana de Lisboa".<br>The analysis of the data for the year 2013 should take into account the changes in the territorial boundaries of the municipalities of Lisboa, Loures, Santarém, Golegã, Faro and Loulé, arising from the legislation related to the administrative territorial reorganization of parishes, with entry into force on September 30, 2013.
+
+(3) The total number of deaths may not correspond to the sum of the partial figures by sex, due to the existence of records with unknown sex.
+
+
+
+This data last updated:may 16, 2023
+
+
+Table Metadata
+
+Deaths (No.)
+Name;Deaths (No.) by Place of residence (NUTS - 2013), Sex and Age -  Annual
+Regularity;Annual
+Source;Statistics Portugal, Deaths
+First available period;2011
+Last available period;2022
+Dimensions
+     Dimension 1;Data reference period
+     Dimension 2;Place of residence (NUTS - 2013)
+     Dimension 3;Sex
+     Dimension 4;Age
+Concepts
+     AGE;The interval of time between the day, month and year of birth and 0:00 a.m. of the reference date. Age is expressed as complete years for adults and children and months, weeks, days, hours or minutes of life, as appropriate, for infants under one year of age.
+     DEATH;The permanent disappearance of vital functions.
+     REFERENCE PERIOD;The length of time for which data are collected, e.g. a specific day, month or year.
+Definition;
+Formule;
+Measure unit (symbol);Number (No.)
+Power of 10;0
+Observations;Count
+Last update date;16-May-2023

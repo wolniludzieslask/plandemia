@@ -1,0 +1,10 @@
+dane z lat 1950-2022 z Wikipedii (w latach 1998-2022 zgodne ze stron¹ www.stat.gov.rs,
+w latach 1961-1997 niezgodne ze stron¹ 1961-1997)
+
+dane za lata 1961-1997 wzi¹³em z Wikipedii
+
+procedura otrzymania pliku serbia1946_2022.csv
+1) wczytaæ serbia_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D, E
+3) usun¹æ wiersze 1-47
+4) zapisaæ jako serbia1946_2022.csv

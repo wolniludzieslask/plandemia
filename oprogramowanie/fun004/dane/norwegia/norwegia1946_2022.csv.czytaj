@@ -1,0 +1,7 @@
+dane w latach 1946-2022 z Wikipedii (zgodne ze stron¹ www.ssb.no w latach 1950-2022)
+
+procedura otrzymania pliku norwegia1946_2022.csv
+1) wczytaæ norwegia_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D
+3) usun¹æ wiersze 1-47
+4) zapisaæ jako norwegia1946_2022.csv

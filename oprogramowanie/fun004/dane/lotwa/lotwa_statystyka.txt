@@ -1,0 +1,13 @@
+https://www.csp.gov.lv/en
+
+trzy kreski (menu) w górnym prawym rogu
+menu zprawej
+Services
+Official statistics
+wybraæ ikonê Population
+w menu z lewej Mortality
+tabela IMV010 Deaths by sex and age1920 - 2022
+View in database
+wybraæ z menu zakres lat, p³eæ (np Total) i wiek (np.Total)
+z boku Save results as
+

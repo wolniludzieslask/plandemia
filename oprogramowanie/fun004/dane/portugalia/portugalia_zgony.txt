@@ -1,0 +1,18 @@
+Data reference period (1) 	Place of residence (NUTS - 2013) (2) 	Deaths (No.) by Place of residence (NUTS - 2013), Sex and Urban areas typology; Annual (3)
+Sex
+MF
+Urban areas typology
+Predominantly urban area	Medium urban area	Predominantly rural area
+No. 	No. 	No.
+2022	Continente	79 194	18 020	21 275
+2021	Continente	80 266	18 217	21 112
+2020	Continente	79 165	18 264	20 804
+2019	Continente	71 212	16 332	19 336
+2018	Continente	71 630	16 571	19 817
+2017	Continente	69 114	16 476	19 394
+2016	Continente	69 147	16 492	19 903
+2015	Continente	67 968	16 225	19 421
+2014	Continente	65 310	15 641	18 843
+2013	Continente	65 991	15 987	19 694
+2012	Continente	66 334	16 236	20 255
+2011	Continente	63 443	15 354	19 195

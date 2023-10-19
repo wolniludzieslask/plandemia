@@ -1,0 +1,11 @@
+kolumna B - liczba zgonów wg roczników demograficznych z ró¿nych lat
+pierwszy powojenny rocznik demograficzny za lata 1945-1966, kolejny za lata 1967-1968
+liczby zgonów w latach 1950-1964 - roczniki statystyczne
+patrz plik roczniki_statystyczne_zgony.txt
+kolumna C - Noworodki niezdolne do ¿ycia z oznakami ¿ycia
+liczby z roczników demograficznych
+kolumna D - suma liczb z kolumny B i C
+kolumna E - liczba zgonów z Wikipedii
+
+W roku 1965 i 1966 zaokr¹glone do setek liczby w kolumnie D nie s¹ równe liczbom w kolumnie E.
+W roku 2020 liczba w kolumnie B ró¿ni siê od liczby w kolumnie E.

@@ -1,0 +1,56 @@
+https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101G/ManadFoddDod/table/tableViewLayout1/
+
+po wyœwietleniu tabeli wybraæ u góry tools
+Edit and Calculate
+Sum variable values
+zaznaczone jest sex i sum all values
+wybraæ Continue
+wpisaæ total
+
+czêœæ plików otrzymanych za pomoc¹ transpozycji danych z wierszy
+np. szwecja2000_2022_1.csv
+
+transponowanie tablicy (macierzy):
+zaznaczyæ tablicê m x n
+ctrl-x
+prawy przycisk
+wklej specjalnie
+zaznaczyæ Transponuj
+wybraæ OK
+powinien wstawiæ tablicê n x m z przetransponowanymi kolumnami na wiersze (lub wiersze na kolumny)
+
+pliki oryginalne
+000000NF_20230813-122153.csv
+000000NF_20230813-121944.csv
+000000NF_20230813-121733.csv
+000000NF_20230813-121456.csv
+000000NF_20230813-121207.csv
+000000NF_20230813-121001.csv
+000000NF_20230813-120458.csv
+000000NF_20230812-115154.csv
+
+kroki
+1) 000000NF_20230813-122153.csv
+2) szwecja1851_1879.ods
+usuniête dane o zgonach kobiet i mê¿czyzn
+dodane sumy roczne
+3) szwecja1851_1879.csv
+4) szwecja1851_1879_1.csv
+plik szwecja1851_1879.csv wczytany do arkusza
+dane miesiêczne usuniête
+transpozycja wierszy i kolumn
+
+te same kroki dla pozosta³ych plików 000000NF*.csv
+
+dane do zestawieñ i wykresów
+szwecja1851_1879_1.csv
+szwecja1880_1899_1.csv
+szwecja1900_1919_1.csv
+szwecja1920_1939_1.csv
+szwecja1940_1959_1.csv
+szwecja1960_1979_1.csv
+szwecja1980_1999_1.csv
+szwecja2000_2022_1.csv
+
+po³¹czone w jednym pliku
+szwecja1851_2022.csv

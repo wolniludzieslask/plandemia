@@ -1,0 +1,50 @@
+
+Statistical table extracted on September 01, 2023 (11:14:07)
+http://www.ine.pt
+
+
+
+Place of residence (NUTS - 2013) (1) ;Deaths (No.) by Place of residence (NUTS - 2013) and Sex -  Annual;;;;;;;;;
+;Data reference period (2) ;;;;;;;;;
+;2022;2021;2020;2019;2018;2017;2016;2015;2014;
+;Sex;;;;;;;;;
+;MF;;;;;;;;;
+;No. ;No. ;No. ;No. ;No. ;No. ;No. ;No. ;No. ;
+PT: Portugal;124311;124841;123396;111843;113051;109758;110573;108539;104843;
+1: Continente;118489;119595;118233;106880;108018;104984;105542;103614;99783;
+
+Deaths (No.) by Place of residence (NUTS - 2013) and Sex -  Annual - Statistics Portugal, Deaths
+
+Note(s):
+(1) From January 1st, 2015 came into force a new version of NUTS (NUTS 2013). At NUTS II level was just a name change in "Lisboa" which became known as "Área Metropolitana de Lisboa".
+
+(2) Data for 2021 have been revised in May 2023, as a result of the final codification of causes of death in the death registers for 2021.
+<br>Data for 2022 are based on the information registered in the Civil Register Offices until March 2023.
+
+
+
+
+This data last updated:may 16, 2023
+
+
+Table Metadata
+
+Deaths (No.)
+Name;Deaths (No.) by Place of residence (NUTS - 2013) and Sex -  Annual
+Regularity;Annual
+Source;Statistics Portugal, Deaths
+First available period;2014
+Last available period;2022
+Dimensions
+     Dimension 1;Data reference period
+     Dimension 2;Place of residence (NUTS - 2013)
+     Dimension 3;Sex
+Concepts
+     DEATH;The permanent disappearance of vital functions.
+     REFERENCE PERIOD;The length of time for which data are collected, e.g. a specific day, month or year.
+Definition;
+Formule;
+Measure unit (symbol);Number (No.)
+Power of 10;0
+Observations;Count
+Last update date;16-May-2023

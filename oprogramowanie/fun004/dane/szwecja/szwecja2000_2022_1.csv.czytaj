@@ -1,0 +1,10 @@
+plik otrzymany za pomoc¹ transpozycji danych z wierszy z pliku 000000NF_20230812-115154.csv
+
+transponowanie tablicy (macierzy):
+zaznaczyæ tablicê m x n
+ctrl-x
+prawy przycisk
+wklej specjalnie
+zaznaczyæ Transponuj
+wybraæ OK
+powinien wstawiæ tablicê n x m z przetransponowanymi kolumnami na wiersze (lub wiersze na kolumny)

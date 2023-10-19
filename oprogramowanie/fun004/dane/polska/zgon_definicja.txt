@@ -1,0 +1,30 @@
+https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/660,archiwum.html
+
+Zgon
+Opis pojêcia który obowi¹zywa³ do: 31.12.2017
+
+Nazwa angielska:
+
+Death
+
+Definicja:
+
+Trwa³e, czyli nieodwracalne ustanie czynnoœci narz¹dów niezbêdnych do ¿ycia (niezale¿nie od okresu po urodzeniu ¿ywym), w konsekwencji czego nastêpuje ustanie czynnoœci ¿yciowych ca³ego ustroju.
+
+Dodatkowe wyjaœnienia metodologiczne:
+
+W okresie od 01.01.1963 r. do 30.06.1994 r. w polskiej sprawozdawczoœci statystycznej (zarówno medycznej, 
+jak i pañstwowej) za zgon uwa¿a³o siê zanikniêcie wszystkich oznak ¿ycia, niezale¿nie od okresu po ¿ywym 
+urodzeniu, stwierdzone przez osoby do tego powo³ane, z wyj¹tkiem przypadków zakwalifikowanych jako 
+urodzenia noworodków niezdolnych do ¿ycia z oznakami ¿ycia (patrz: has³o "Urodzenie"). Wed³ug 
+obowi¹zuj¹cych wówczas zasad kategorie "noworodków niezdolnych do ¿ycia z oznakami ¿ycia" traktowano 
+jako odrêbn¹ grupê przypadków nie zaliczan¹ w statystyce do urodzeñ ¿ywych, a w konsekwencji 
+nie kwalifikuj¹cych siê (wed³ug ówczesnej definicji) jako zgony niemowl¹t. Stosowana w statystyce polskiej 
+w latach 1963 - 1993 metoda klasyfikowania urodzeñ ¿ywych, a w nastêpstwie tego równie¿ zgonów niemowl¹t, 
+by³a g³ówn¹ przyczyn¹ braku pe³nej porównywalnoœci tych danych w skali miêdzynarodowej, przede wszystkim 
+dotyczy³o to umieralnoœci niemowl¹t (wspó³czynników zgonów niemowl¹t). Wprowadzone 
+z dniem 1 lipca 1994 r. rozporz¹dzeniem Ministra Zdrowia i Opieki Spo³ecznej nowe definicje pojêæ 
+dotycz¹cych m.in. urodzeñ oraz zgonów noworodków przywróci³y zgodnoœæ omawianych definicji 
+obowi¹zuj¹cych w statystyce polskiej z definicjami zalecanymi przez Œwiatow¹ Organizacjê Zdrowia (WHO). 
+Informacje o urodzeniach i zgonach, w tym niemowl¹t (zarówno dane bezwzglêdne jak i wspó³czynniki) 
+za lata 1963-1993 zosta³y przeliczone zgodnie z obecnie obowi¹zuj¹c¹ definicj¹.

@@ -1,0 +1,13 @@
+dane z lat 1946-2022 ze strony www.ons.gov.uk (zgodne z Wikipedi¹ w latach 1946-2021
+za wyj¹tkiem lat 1982,2013,2016,2021)
+dane z roku 2022 z Wikipedii
+
+procedura otrzymania pliku wielka_brytania1946_2022.csv
+1) wczytaæ wielka_brytania_porownanie.ods do Open Office
+2) skopiowaæ 
+c84 -> b84
+c115:c123 -> b115:b123
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako wielka_brytania1946_2022.csv
+

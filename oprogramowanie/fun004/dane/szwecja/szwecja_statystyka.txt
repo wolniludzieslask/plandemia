@@ -1,0 +1,23 @@
+https://www.scb.se/en
+
+nie znajdzie siê szerokiego zakresu lat
+
+link
+https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101G/ManadFoddDod/table/tableViewLayout1/
+
+nie wiem, gdzie ten link znalaz³em
+
+mo¿na do tego tak wejœæ
+u góry w menu wybraæ A-Z
+z listy wybraæ
+Statistical Database
+https://www.statistikdatabasen.scb.se/pxweb/en/ssd/
+ale mo¿na wyœwietliæ zgony tylko z lat 1968-2022
+
+wiem
+na liœcie wybraæ
+ Population
+ Population statistics
+ Summary of vital events
+a potem
+Population and population changes in Sweden by sex. Year 1749 - 2022 [2023-02-22]

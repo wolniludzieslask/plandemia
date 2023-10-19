@@ -1,0 +1,13 @@
+dane w latach 1946-2022 z Wikipedii (zgodne ze stron¹ statistiques.public.lu w latach 1950-2022
+za wyj¹tkiem lat 1951,1966-1975,1992,2009)
+
+dane za rok 1951 wzi¹³em z Wikipedii
+dane w latach 1966-1975,1992,2009 wzi¹³em ze strony statistiques.public.lu
+
+procedura otrzymania pliku luksemburg1946_2022.csv
+1) wczytaæ luksemburg_porownanie.ods do Open Office
+2) skopiowaæ 
+c68:c111-> b68:b111
+3) usun¹æ kolumny C, D, E
+4) usun¹æ wiersze 1-47
+5) zapisaæ jako luksemburg1946_2022.csv

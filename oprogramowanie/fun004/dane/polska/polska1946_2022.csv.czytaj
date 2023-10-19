@@ -1,0 +1,21 @@
+dane z lat 1946-1962 z roczników demograficznych
+dane z lat 1963-1964 z Wikipedii
+dane z lat 1965-1993 z kolumny D arkusza polska_porownanie.ods
+(patrz polska_porownanie.ods.czytaj,
+zgodne z Wikipedi¹ po zaokr¹gleniu do setek w latach 1965-1993)
+dane z lat 1994-2022 z kolumny B arkusza polska_porownanie.ods
+(z roczników statystycznych i demograficznych, dane z roku 2022
+z biuletynu statystycznego z lutego 2023, 
+zgodne z Wikipedi¹ po zaokr¹gleniu do setek w latach 1994-2014
+w latach 2015-2019 i 2022 zgodne)
+
+procedura otrzymania pliku polska1946_2022.csv
+1) zapisaæ polska_porownanie.ods jako polska_porownanie.csv
+2) wczytaæ polska_porownanie.csv do Open Office
+3) skopiowaæ wartoœci komórek
+d21:d49->b21:b49
+e19->b19
+e20->b20
+4) usun¹æ kolumny C, D, E, F
+5) usun¹æ 1-y wiersz (nag³ówek)
+6) zapisaæ jako polska1946_2022.csv
