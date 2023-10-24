@@ -1,0 +1,15 @@
+REGB£STD
+Zwraca b³¹d standardowy przewidywanej wartoœci Y dla ka¿dej wartoœci X w regresji.
+Sk³adnia
+REGB£STD(dane_Y; dane_X)
+Dane_Y oznaczaj¹ macierz danych Y.
+Dane_X oznaczaj¹ macierz danych X.
+Przyk³ad
+=STEXY(A1:A50;B1:B50) 
+ODCH.KWADRATOWE
+Zwraca sumê kwadratów odchyleñ próbki od wartoœci œredniej.
+Sk³adnia
+ODCH.KWADRATOWE(liczba_1; liczba_2; ...liczba_30)
+Liczba_1, liczba_2, ...liczba_30 oznaczaj¹ wartoœci lub zakresy reprezentuj¹ce próbkê. 
+Przyk³ad
+=ODCH.KWADRATOWE(A1:A50) 

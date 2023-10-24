@@ -1,0 +1,30 @@
+https://openstax.org/books/principles-finance/pages/14-5-predictions-and-prediction-intervals
+u¿ycie Excela
+
+T.INV
+w Open Office
+ROZK£AD.T.ODW
+Zwraca odwrotnoœæ rozk³adu T.
+Sk³adnia
+ROZK£AD.T.ODW(liczba; stopnie_swobody)
+Liczba oznacza prawdopodobieñstwo zwi¹zane z dwustronnym rozk³adem T.
+Stopnie_swobody oznaczaj¹ liczbê stopni swobody dla rozk³adu T.
+
+FORECAST
+w Open Office
+REGLINX
+Ekstrapoluje wartoœci przysz³e w oparciu o istniej¹ce wartoœci X i Y.
+Sk³adnia
+REGLINX(wartoœæ; dane_Y; dane_X)
+Wartoœæ oznacza wartoœæ X, dla której nale¿y obliczyæ wartoœæ Y na prostej regresji.
+Dane_Y oznaczaj¹ macierz lub zakres znanych punktów Y.
+Dane_X oznaczaj¹ macierz lub zakres znanych punktów X.
+
+zestawienie odpowiedników funkcji w Excelu i Open Office u¿ytych w arkuszach prognoz liczby zgonów
+Excel		Open Office
+AVERAGE	ŒREDNIA
+STEYX		REGB£STD
+FORECAST	REGLINX
+T.INV		ROZK£AD.T.ODW
+ABS		MODU£.LICZBY
+DEVSQ		ODCH.KWADRATOWE
