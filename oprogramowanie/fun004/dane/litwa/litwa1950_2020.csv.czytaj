@@ -1,0 +1,32 @@
+https://osp.stat.gov.lt
+wybraæ jêzyk angielski
+
+link
+Database
+https://osp.stat.gov.lt/statistiniu-rodikliu-analize#/
+
+menu z lewej
+Population and social statistics
+
+Population 
+
+Mortality
+Deaths
+
+da³o siê w mypalu zrobiæ
+trzeba by³o wybraæ tabelê Place of residence | Sex (1950 - 2022)
+zaznaczyæ wszystkie lata
+przejœæ do trybu pe³noekranowego
+zaznaczyæ dane tabeli
+wkleiæ do arkusza Open Office
+scaliæ komórki, ¿eby struktura by³a jednolita (Format->Scal komórki)
+rêcznie przekopiowaæ dane
+dane z liczbami zgonów sformatowaæ jako tekst
+uzupe³niæ koñcowe zera dla liczb, gdzie jest konieczne
+np. 8,42 zamieniæ na 8,420
+zapisaæ z tabem jako separator
+wczytaæ ponownie do Open Office
+(liczby jako angielski USA)
+zmieniæ na format liczb bez przecinków (separatory tysiêcy)
+posortowaæ rosn¹co po roku
+zapisaæ z tabem jako separator

@@ -1,0 +1,98 @@
+1) Werfikacja danych przez porównanie danych  z Wikipedii z danymi z urzêdów statystycznych
+Najpierw wczytywano do Open Office pliki danych z Wikipedii.
+Potem wczytywano pliki danych o zgonach z krajowych urzêdów statystycznych
+celem porównania.
+Czasami dane z urzêdów by³y w wierszu. Trzeba je by³o transponowaæ do postaci kolumny.
+(Za pomoc¹ Open Office wykonaæ Ctrl-C, a potem wkleiæ przez prawy przycisk myszy,
+Wklej specjalnie, Transponuj)
+Rezultatem s¹ arkusze nazwakraju_prownanie.ods w odpowiednich podkatalogach.
+Dla Polski nie ma pojedynczego pliku danych rocznych z GUS. S¹ dane przepisane rêcznie
+z odpowiednich roczników demograficznych i roczników statystycznych -
+dane w pliku roczniki_statystyczne_zgony.txt. Potem te dane zosta³y przepisane
+do arkusza polska_porownanie.ods. Dane o zgonach za lata 1965-1993 skorygowane zgodnie
+z opisem w pliku zmiana_definicji_zgonu.txt .
+
+2) Otrzymanie plików nazwakraju19xx_2022.csv
+Otworzyæ nazwakraju_porownanie.ods .
+Skopiowaæ komórki wg opisu w nazwakraju19xx_2022.csv.czytaj
+i zapisaæ jako nazwakraju19xx_2022.csv .
+Na przyk³ad dla Albanii otworzyæ plik albania_porownanie.ods.
+Postêpowaæ zgodnie z instrukcjami w pliku albania1950_2022.csv.czytaj .
+Rezultatem jest plik albania1950_2022.csv .
+
+Plikami wejœciowymi do diagramów i tabel s¹ pliki nazwakraju19xx_2022.csv .
+
+Lista plików wejœciowych:
+albania1950_2022.csv
+andora1948_2022.csv
+austria1946_2022.csv
+belgia1946_2022.csv
+bulgaria1946_2022.csv
+chorwacja1950_2022.csv
+cypr1974_2022.csv
+czarnogora1950_2022.csv
+czechy1946_2022.csv
+dania1946_2022.csv
+estonia1946_2022.csv
+finlandia1946_2022.csv
+francja1946_2022.csv
+grecja1946_2022.csv
+gruzja1950_2022.csv
+hiszpania1946_2022.csv
+holandia1946_2022.csv
+irlandia1946_2022.csv
+islandia1946_2022.csv
+liechtenstein1946_2022.csv
+litwa1946_2022.csv
+lotwa1946_2022.csv
+luksemburg1946_2022.csv
+malta1946_2022.csv
+niemcy1946_2022.csv
+norwegia1946_2022.csv
+polska1946_2022.csv
+portugalia1946_2022.csv
+rumunia1946_2022.csv
+serbia1950_2022.csv
+slowacja1946_2022.csv
+slowenia1950_2022.csv
+szwajcaria1946_2022.csv
+szwecja1946_2022.csv
+wegry1946_2022.csv
+wielka_brytania1946_2022.csv
+wlochy1946_2022.csv
+
+3) Arkusze XX_zgony_prognoza2015_2019.ods (podkatalog zgony_eu2015) otrzymane na podstawie formu³
+arkusza testy/test_formul_arkuszy/prediction_interval.ods .
+(Formu³y arkusza na podstawie formu³ Excela na stronie
+https://openstax.org/books/principles-finance/pages/14-5-predictions-and-prediction-intervals
+)
+Wystarczy³o zrobiæ jeden arkusz dla wybranego kraju. Arkusze dla innych krajów
+by³y wykonywane przez kopiowanie tego pierwszego arkusza i skopiowanie
+danych o zgonach dla kraju (komórki C2:C24, z pliku nazwakraju19xx_2022.csv) i modyfikacjê 
+symbolu kraju w komórkach B2:B24.
+
+4) Tabela zgonów nadmiarowych 2020-2022 (tabela w pliku zgony_eu2020_2022.html) otrzymana z arkusza zgony_eu2020_2022.ods
+Arkusz zgony_eu2020_2022.ods otrzymany przez skopiowanie liczb zgonów rzeczywistych (komórka C25)
+i prognozowanych (komórka E25) z arkuszy XX_zgony_prognoza2015_2019.ods do arkusza zgony_eu2020_2022.ods
+
+5) Tabela zgonów nadmiarowych 2020 (tabela w pliku zgony_eu2020.html) otrzymana z arkusza zgony_eu2020.ods
+Arkusz zgony_eu2020.ods otrzymany przez skopiowanie liczb zgonów rzeczywistych (komórka C22)
+i prognozowanych (komórka E22) z arkuszy XX_zgony_prognoza2015_2019.ods do arkusza zgony_eu2020.ods
+
+6) Tabela zgonów nadmiarowych 2021 (tabela w pliku zgony_eu2021.html) otrzymana z arkusza zgony_eu2021.ods
+Arkusz zgony_eu2021.ods otrzymany przez skopiowanie liczb zgonów rzeczywistych (komórka C23)
+i prognozowanych (komórka E23) z arkuszy XX_zgony_prognoza2015_2019.ods do arkusza zgony_eu2021.ods
+
+7) Tabela zgonów nadmiarowych 2022 (tabela w pliku zgony_eu2022.html) otrzymana z arkusza zgony_eu2022.ods
+Arkusz zgony_eu2022.ods otrzymany przez skopiowanie liczb zgonów rzeczywistych (komórka C24)
+i prognozowanych (komórka E24) z arkuszy XX_zgony_prognoza2015_2019.ods do arkusza zgony_eu2022.ods
+
+8) Otrzymanie diagramów
+Wykonaæ zestawienia za pomoc¹ skryptów gnuplot:
+a) nazwakraju19xx_2022_prognoza2015.gp
+(np. dla Albanii to albania1950_2022_prognoza2015.gp)
+b) nazwakraju2000_2022_prognoza2015.gp
+Czêœci¹ skryptów s¹ krzywe granic przedzia³ów niepewnoœci.
+Parametry krzywej przepisane z plików XX_zgony_prognoza2015_2019.ods.
+Patrz oprogramowanie\fun004\testy\prognozy z porównaniem parametrów skryptów
+dla ka¿dego kraju.

@@ -124,7 +124,7 @@ Gruzja
 https://en.wikipedia.org/wiki/Demographics_of_Georgia_(country)
 gruzja_wiki.txt
 29.08.2023
-http://pc-axis.geostat.ge/PXweb/pxweb/en/Database
+https://pc-axis.geostat.ge/PXweb/pxweb/en/Database
 Deaths.csv
 1.09.2023
 
@@ -172,7 +172,7 @@ Litwa
 https://en.wikipedia.org/wiki/Demographics_of_Lithuania
 litwa_wiki.txt
 30.08.2023
-https://osp.stat.gov.lt/statistiniu-rodikliu-analize#/
+https://osp.stat.gov.lt
 litwa1994_2022.csv
 30.08.2023
 
@@ -218,9 +218,12 @@ https://pl.wikipedia.org/wiki/Demografia_Polski
 zgony_wikipedia.txt
 14.08.2023
 https://cbs.stat.gov.pl/
-(strona Centralnej Biblioteki Statystycznej, dane liczbowe w pliku roczniki_statystyczne_zgony.txt,
+https://stat.gov.pl
+(strona Centralnej Biblioteki Statystycznej, na której wyszukiwa³em roczniki demograficzne i statystyczne; 
+dane liczbowe z roczników demograficznych i statystycznych w pliku roczniki_statystyczne_zgony.txt,
 korekta zgonów z lat 1963-1995 opis w pliku zmiana_definicji_zgonu.txt,
-liczby skorygowane w arkuszu polska_porownanie.ods)
+liczby skorygowane w arkuszu polska_porownanie.ods;
+drugi adres to adres GUS, gdzie mo¿na znaleŸæ roczniki demograficzne od roku 2001)
 roczniki_statystyczne_zgony.txt
 28.09.2023
 
@@ -298,7 +301,7 @@ Wielka Brytania
 https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom
 wielka_brytania_wiki.txt
 31.08.2023
-https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/mortalitystatisticsinenglandandwalesqmi
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables
 annualreferencetables2021.xlsx
 31.08.2023
 

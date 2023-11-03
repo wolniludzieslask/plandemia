@@ -13,7 +13,7 @@ stats [2015:2019] 'irlandia1946_2022.csv' using 1:2 prefix "A"
 
 # patrz C:\rob\world_mortality\polska\zgony_wikipedia_prognoza.ods
 ta2 = 3.1824
-se = 155.8918428484
+se = 236.1368953242
 N = 5
 xbar = 2017
 Ssx = 10

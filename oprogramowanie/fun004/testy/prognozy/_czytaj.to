@@ -1,0 +1,12 @@
+Porównanie parametrów w plikach XX_zgony_prognoza2015_2019.ods
+i w skryptach do generowania diagramów
+
+plik C:\programy\gnuplot\moje_pliki\zgony_eu2015skrypty\zgony_roczna_prognoza.txt
+otrzymany zosta³ za pomoc¹ klasy zgony_europa.ZgonyEuPrognozaRoczna2015
+
+z lewej parametry w pliku XX_zgony_prognoza2015_2019.ods
+z prawej w œrodku parametry skryptu nazwa_kraju19xx_2022_prognoza2015.gp
+ta2 jest równy parametrowi Value of t-distribution (zwany te¿ wspó³czynnikiem rozszerzenia)
+se jest równy parametrowi Standard error Se w arkuszu XX_zgony_prognoza2015_2019.ods
+z prawej u do³u parametry skryptu nazwa_kraju2015_2022_prognoza2015.gp
+te same wartoœci jak wy¿ej

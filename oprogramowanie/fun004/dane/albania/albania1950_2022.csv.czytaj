@@ -1,1 +1,6 @@
 dane za lata 1950-2022 z Wikipedii
+
+1) wczytaæ albania_porownanie.ods do Open Office
+2) usun¹æ kolumny C, D, E
+3) usun¹æ 1-y wiersz (nag³ówek)
+4) zapisaæ jako albania1948_2022.csv

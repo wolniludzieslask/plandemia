@@ -1,13 +1,13 @@
-W dniu 1 lipca 1994 r. zmieniono definicjê zgonu obowi¹zuj¹c¹ w latach 1963-1993
+W dniu 1 lipca 1994 r. zmieniono definicjê zgonu obowi¹zuj¹c¹ w latach 1963-1994
 patrz zgon_definicja.txt
 
-Nie natkn¹³em siê na zestawienie skorygowanych liczb zgonów za lata 1963-1995 (poza Wikipedi¹).
+Nie natkn¹³em siê na zestawienie skorygowanych liczb zgonów za lata 1963-1993 (poza Wikipedi¹).
 W pliku polska_porownanie.ods zrobi³em takie zestawienie. Zgony skorygowane otrzymuje siê
 przez dodanie starej liczby zgonów do liczby 'noworodki niezdolne do ¿ycia z oznakami ¿ycia'.
 Obydwie liczby s¹ w innych tabelach w roczniku demograficznym.
 Przyk³ad za rok 1993:
 W publikacji 'Rocznik statystyczny demografii 1995' s¹ dane skorygowane z kilku lat
-na stronie 284 (wg numeracji stron pliku pdf).
+na stronie 284 (wg numeracji pliku pdf).
 W tabeli 'Zgony wed³u p³ci' jest liczba zgonów 392259 za rok 1993 (skorygowana).
 W publikacji 'Rocznik statystyczny demografii 1994' jest liczba zgonów 390874 za rok 1993
 (liczba nieskorygowana, strona 252 wg numeracji pliku pdf, tabela 'Zgony wed³u p³ci')
@@ -16,5 +16,7 @@ to jest dok³adnie liczba w kolumnie 'Noworodki niezdolne do ¿ycia z oznakami ¿yc
 w tabeli 'Urodzenia' (strona 198 wg numeracji pliku pdf  w 'Roczniku statystycznym demografii 1994').
 
 W ten sposób otrzyma³em liczby zgonów za lata 1965-1993 w kolumnie D w pliku polska_porownanie.ods.
+W kolumnie B s¹ zgony nieskorygowane wg GUS.
 Liczby  'Noworodki niezdolne do ¿ycia z oznakami ¿ycia' za lata 1965-1993 s¹ w kolumnie C.
+W kolumnie D s¹ zgony skorygowane - suma liczb z kolumny B i C.
 Liczby w kolumnie D pliku polska_porownanie.ods s¹ zgodne z wikipedi¹ po zaokr¹gleniu do setek.

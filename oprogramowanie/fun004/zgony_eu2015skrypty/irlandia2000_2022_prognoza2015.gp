@@ -23,7 +23,7 @@ stats [2015:2019] 'irlandia1946_2022.csv' using 1:2 prefix "A"
 # C:\programy\gnuplot\moje_pliki\zgony_eu4\PL_zgonyR.ods
 # C:\rob\zgony_polska\prediction_interval_test1.JPG
 ta2 = 3.1824
-se = 155.8918428484
+se = 236.1368953242
 N = 5
 xbar = 2017
 Ssx = 10
