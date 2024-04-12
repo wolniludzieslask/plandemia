@@ -1,0 +1,65 @@
+synchronizacja z czasem zegarowym
+
+1) patrz protest_mir.mp4.czytaj
+MIR - Media Informacje Relacje prowadził(a) transmisję na żywo.
+6 marca o 11:35
+czas początek nagrania 2 ustawiamy na 11:35:00
+do komórki C22 wpisujemy 11:35:00
+do komórki C23 wpisujemy =$C$22-($B$22-B23)
+do pozostałych komórek nagrania 2 kopiujemy formułę komórki C23
+
+2) Nagranie TV Trwam (nagranie 1)
+zdarzenie z nagrania 1 synchronizujemy ze zdarzeniem z nagrania 2
+do komórki C3 wpisujemy czas z komórki C23 13:56:00
+dla zdarzenia
+(A) Komunikat z głośników: W imieniu organizatora prosimy o nieużywanie pirotechniki i zachowanie zgodne z prawem. Proszę państwa, prosimy o zachowanie zgodne z prawem i nieużywanie pirotechniki. W imieniu organizatora...
+do komórki C4 wpisujemy =$C$3-($B$3-B4)
+do pozostałych komórek nagrania 1 kopiujemy formułę komórki C4
+
+3) Nagranie prowokacje na proteście, kanał MIR (nagranie 3)
+zdarzenie z nagrania 3 synchronizujemy ze zdarzeniem z nagrania 2
+do komórki C51 wpisujemy czas z komórki C23 13:56:00
+dla zdarzenia
+(A) Komunikat z głośników: W imieniu organizatora prosimy o nieużywanie pirotechniki i zachowanie zgodne z prawem. Proszę państwa, prosimy o zachowanie zgodne z prawem i nieużywanie pirotechniki. W imieniu organizatora...
+do komórki C52 wpisujemy =$C$51-($B$51-B52)
+do pozostałych komórek nagrania 3 kopiujemy formułę komórki C52
+
+4) Relacja Onet (nagranie 4)
+zdarzenie z nagrania 4 synchronizujemy ze zdarzeniem z nagrania 2
+do komórki C67 wpisujemy czas z komórki C45 14:41:21
+dla zdarzenia
+seria eksplozji na ulicy Wiejskiej
+do komórki C68 wpisujemy =$C$67-($B$67-B68)
+do pozostałych komórek nagrania 4 kopiujemy formułę komórki C68
+
+5) Relacja emisjaTV (nagranie 5)
+zdarzenie z nagrania 5 synchronizujemy ze zdarzeniem z nagrania 2
+do komórki C80 wpisujemy czas z komórki C41 14:32:28
+dla zdarzenia
+Policjant dobiega do chłopaka, w pobliżu poseł Tumanowicz
+do komórki C81 wpisujemy =$C$80-($B$80-B81)
+do pozostałych komórek nagrania 5 kopiujemy formułę komórki C81
+
+6) Nagranie widok z góry (nagranie 6)
+zdarzenie z nagrania 6 synchronizujemy ze zdarzeniem z nagrania 5
+do komórki C87 wpisujemy czas z komórki C80 14:32:28
+dla zdarzenia
+Policjant biegnie w kierunku chłopaka z flagą, w pobliżu stoi poseł Tumanowicz
+do komórki C88 wpisujemy =$C$87-($B$87-B88)
+do pozostałych komórek nagrania 6 kopiujemy formułę komórki C88
+
+7) Nagranie elacja wRealu24 (nagranie 7)
+zdarzenie z nagrania 6 synchronizujemy ze zdarzeniem z nagrania 3
+do komórki C92 wpisujemy czas z komórki C53 13:59:00
+dla zdarzenia
+huk
+do komórki C93 wpisujemy =$C$92-($B$92-B93)
+do pozostałych komórek nagrania 7 kopiujemy formułę komórki C93
+
+8) Nagranie prowokacja Fakt (nagranie 8)
+zdarzenie z nagrania 8 synchronizujemy ze zdarzeniem z nagrania 7
+do komórki C103 wpisujemy czas z komórki C92 13:59:00
+dla zdarzenia
+huk
+do komórki C104 wpisujemy =$C$103-($B$103-B104)
+do pozostałych komórek nagrania 8 kopiujemy formułę komórki C104
