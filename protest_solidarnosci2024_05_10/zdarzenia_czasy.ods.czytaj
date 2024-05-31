@@ -1,0 +1,32 @@
+synchronizacja z czasem zegarowym
+
+1) MIR - Media Informacje Relacje prowadził(a) transmisję na żywo.
+10 maja o 14:15
+czas początek nagrania 1 ustawiamy na 14:15:00
+do komórki C2 wpisujemy 14:15:00
+do komórki C3 wpisujemy =$C$2-($B$2-B3)
+do pozostałych komórek nagrania 1 kopiujemy formułę komórki C3
+
+2) Relacja Tysol pl (nagranie 2)
+zdarzenie z nagrania 2 synchronizujemy ze zdarzeniem z nagrania 1
+do komórki C9 wpisujemy czas z komórki C9 14:47:24
+dla zdarzenia
+Prowadzący: Do hymnu.
+do komórki C8 wpisujemy =$C$9-($B$9-B8)
+do pozostałych komórek nagrania 2 kopiujemy formułę komórki C8
+
+3) Relacja Onet (nagranie 3)
+zdarzenie z nagrania 3 synchronizujemy ze zdarzeniem z nagrania 1
+do komórki C12 wpisujemy czas z komórki C45 14:47:24
+dla zdarzenia
+Prowadzący: Do hymnu.
+do komórki C68 wpisujemy =$C$67-($B$67-B68)
+do pozostałych komórek nagrania 4 kopiujemy formułę komórki C68
+
+4) Relacja Radio WNET (program specjalny „Precz z Zielonym Ładem”, nagranie 4)
+zdarzenie z nagrania 4 synchronizujemy ze zdarzeniem z nagrania 2
+do komórki C17 wpisujemy czas z komórki C17 12:18:52
+dla zdarzenia
+Jolka, Jolka pamiętasz (Budka Suflera)
+do komórki C14 wpisujemy =$C$17-($B$17-B14)
+do pozostałych komórek nagrania 4 kopiujemy formułę komórki C14
